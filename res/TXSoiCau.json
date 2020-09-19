@@ -1,0 +1,2330 @@
+{
+  "ID": "36d5163d-dd8d-47fb-a46f-7428a60783fc",
+  "Version": "2.3.4",
+  "Name": "TXSoiCau",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 202,
+        "Children": [
+          {
+            "ClipAble": false,
+            "SingleColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "FirstColor": {
+              "R": 30,
+              "G": 144
+            },
+            "EndColor": {
+              "R": 14,
+              "G": 103,
+              "B": 190
+            },
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -256,
+            "Scale9OriginY": -210,
+            "Scale9Width": 512,
+            "Scale9Height": 420,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 641.3415,
+              "Y": 362.0142
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.501,
+              "Y": 0.5028
+            },
+            "PreSize": {
+              "X": 0.6062,
+              "Y": 0.8861
+            },
+            "LeftMargin": 253.3415,
+            "RightMargin": 250.6584,
+            "TopMargin": 38.9858,
+            "BottomMargin": 43.0142,
+            "Tag": 203,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/bg_soicau1.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 256,
+                "Scale9OriginY": 210,
+                "Scale9Width": 220,
+                "Scale9Height": 172,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 204,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/btn_close_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/btn_close_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/btn_close.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 23,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 719.9167,
+                      "Y": 581.1686
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9277,
+                      "Y": 0.9109
+                    },
+                    "PreSize": {
+                      "X": 0.058,
+                      "Y": 0.0705
+                    },
+                    "LeftMargin": 697.4167,
+                    "RightMargin": 33.5833,
+                    "TopMargin": 34.3314,
+                    "BottomMargin": 558.6686,
+                    "Tag": 488,
+                    "ActionTag": -2079025735,
+                    "Size": {
+                      "X": 45.0,
+                      "Y": 45.0
+                    },
+                    "Name": "btn_close_soi_cau1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Normal.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Press.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Disable.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Normal.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Disable.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 180.7706,
+                      "Y": 58.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.233,
+                      "Y": 0.0909
+                    },
+                    "PreSize": {
+                      "X": 0.0387,
+                      "Y": 0.047
+                    },
+                    "LeftMargin": 165.7706,
+                    "RightMargin": 580.2294,
+                    "TopMargin": 564.9998,
+                    "BottomMargin": 43.0002,
+                    "Tag": 205,
+                    "ActionTag": -1502589840,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 30.0
+                    },
+                    "Name": "cb_soi_cau_xx1",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Normal.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Press.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Disable.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Normal.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Disable.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 354.2161,
+                      "Y": 58.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4565,
+                      "Y": 0.0909
+                    },
+                    "PreSize": {
+                      "X": 0.0387,
+                      "Y": 0.047
+                    },
+                    "LeftMargin": 339.2161,
+                    "RightMargin": 406.7839,
+                    "TopMargin": 564.9998,
+                    "BottomMargin": 43.0002,
+                    "Tag": 206,
+                    "ActionTag": -1911725373,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 30.0
+                    },
+                    "Name": "cb_soi_cau_xx2",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "CheckedState": true,
+                    "NormalBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Normal.png",
+                      "Plist": ""
+                    },
+                    "PressedBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Press.png",
+                      "Plist": ""
+                    },
+                    "DisableBackFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBox_Disable.png",
+                      "Plist": ""
+                    },
+                    "NodeNormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Normal.png",
+                      "Plist": ""
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "Default",
+                      "Path": "Default/CheckBoxNode_Disable.png",
+                      "Plist": ""
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 522.1576,
+                      "Y": 58.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6729,
+                      "Y": 0.0909
+                    },
+                    "PreSize": {
+                      "X": 0.0387,
+                      "Y": 0.047
+                    },
+                    "LeftMargin": 507.1576,
+                    "RightMargin": 238.8424,
+                    "TopMargin": 564.9998,
+                    "BottomMargin": 43.0002,
+                    "Tag": 207,
+                    "ActionTag": -1096300577,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 30.0
+                    },
+                    "Name": "cb_soi_cau_xx3",
+                    "ctype": "CheckBoxObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Xúc Xắc 1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.4162,
+                      "Y": 58.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3214,
+                      "Y": 0.0909
+                    },
+                    "PreSize": {
+                      "X": 0.1147,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 204.9162,
+                    "RightMargin": 482.0838,
+                    "TopMargin": 568.4998,
+                    "BottomMargin": 46.5002,
+                    "Tag": 208,
+                    "ActionTag": -1806832646,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Xúc Xắc 2",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 420.096,
+                      "Y": 58.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 144,
+                      "G": 238,
+                      "B": 144
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5414,
+                      "Y": 0.0909
+                    },
+                    "PreSize": {
+                      "X": 0.1186,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 374.096,
+                    "RightMargin": 309.904,
+                    "TopMargin": 568.4998,
+                    "BottomMargin": 46.5002,
+                    "Tag": 209,
+                    "ActionTag": 1198506255,
+                    "Size": {
+                      "X": 92.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_3_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "Xúc Xắc 3",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 588.6088,
+                      "Y": 58.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7585,
+                      "Y": 0.0909
+                    },
+                    "PreSize": {
+                      "X": 0.1186,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 542.6088,
+                    "RightMargin": 141.3912,
+                    "TopMargin": 568.4998,
+                    "BottomMargin": 46.5002,
+                    "Tag": 210,
+                    "ActionTag": -1546292827,
+                    "Size": {
+                      "X": 92.0,
+                      "Y": 23.0
+                    },
+                    "Name": "Text_3_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "Phiên gần nhất (#23456)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 286.0,
+                      "Y": 585.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3686,
+                      "Y": 0.9169
+                    },
+                    "PreSize": {
+                      "X": 0.3222,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 161.0,
+                    "RightMargin": 365.0,
+                    "TopMargin": 41.5,
+                    "BottomMargin": 573.5,
+                    "Tag": 211,
+                    "ActionTag": -1803605580,
+                    "Size": {
+                      "X": 250.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_phien_gan_nhat",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "0",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 350.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.5486
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 279.0,
+                    "BottomMargin": 341.0,
+                    "Tag": 212,
+                    "ActionTag": -852862073,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "3",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 380.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.5956
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 249.0,
+                    "BottomMargin": 371.0,
+                    "Tag": 213,
+                    "ActionTag": 1648931197,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "6",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 410.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.6426
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 219.0,
+                    "BottomMargin": 401.0,
+                    "Tag": 214,
+                    "ActionTag": -66229061,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "9",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 440.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.6897
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 189.0,
+                    "BottomMargin": 431.0,
+                    "Tag": 215,
+                    "ActionTag": -215706860,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "12",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 470.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.7367
+                    },
+                    "PreSize": {
+                      "X": 0.0232,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 66.0,
+                    "RightMargin": 692.0,
+                    "TopMargin": 159.0,
+                    "BottomMargin": 461.0,
+                    "Tag": 216,
+                    "ActionTag": -356244478,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "15",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 500.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.7837
+                    },
+                    "PreSize": {
+                      "X": 0.0232,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 66.0,
+                    "RightMargin": 692.0,
+                    "TopMargin": 129.0,
+                    "BottomMargin": 491.0,
+                    "Tag": 217,
+                    "ActionTag": 1415922005,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "18",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 530.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.8307
+                    },
+                    "PreSize": {
+                      "X": 0.0232,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 66.0,
+                    "RightMargin": 692.0,
+                    "TopMargin": 99.0,
+                    "BottomMargin": 521.0,
+                    "Tag": 218,
+                    "ActionTag": -745038700,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "0",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 100.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.1567
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 529.0,
+                    "BottomMargin": 91.0,
+                    "Tag": 219,
+                    "ActionTag": 1721590674,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "1",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 130.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.2038
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 499.0,
+                    "BottomMargin": 121.0,
+                    "Tag": 220,
+                    "ActionTag": 1657837859,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "2",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 160.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.2508
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 469.0,
+                    "BottomMargin": 151.0,
+                    "Tag": 221,
+                    "ActionTag": 2065793671,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_1_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "3",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 190.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.2978
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 439.0,
+                    "BottomMargin": 181.0,
+                    "Tag": 222,
+                    "ActionTag": -1507622691,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_2_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "4",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 220.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.3448
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 409.0,
+                    "BottomMargin": 211.0,
+                    "Tag": 223,
+                    "ActionTag": -1186541045,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_3_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "5",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 250.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.3918
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 379.0,
+                    "BottomMargin": 241.0,
+                    "Tag": 224,
+                    "ActionTag": 2089803266,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_4_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 16,
+                    "LabelText": "6",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 75.0,
+                      "Y": 280.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0966,
+                      "Y": 0.4389
+                    },
+                    "PreSize": {
+                      "X": 0.0116,
+                      "Y": 0.0282
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 696.5,
+                    "TopMargin": 349.0,
+                    "BottomMargin": 271.0,
+                    "Tag": 225,
+                    "ActionTag": -1046153073,
+                    "Size": {
+                      "X": 9.0,
+                      "Y": 18.0
+                    },
+                    "Name": "Text_1_5_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "TÀI 15(4-5-6)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 506.0,
+                      "Y": 585.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6521,
+                      "Y": 0.9169
+                    },
+                    "PreSize": {
+                      "X": 0.2577,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 406.0,
+                    "RightMargin": 170.0,
+                    "TopMargin": 41.5,
+                    "BottomMargin": 573.5,
+                    "Tag": 226,
+                    "ActionTag": 1466566581,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb__ket_qua_phien_gan_nhat",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -2093022359,
+                "Size": {
+                  "X": 776.0,
+                  "Y": 638.0
+                },
+                "Name": "pSoiCauTaiXiu1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/bg_soicau1.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 256,
+                "Scale9OriginY": 210,
+                "Scale9Width": 220,
+                "Scale9Height": 172,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 227,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/btn_close_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/btn_close_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/btn_close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 15,
+                    "Scale9Height": 23,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 722.1699,
+                      "Y": 585.5419
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9306,
+                      "Y": 0.9178
+                    },
+                    "PreSize": {
+                      "X": 0.058,
+                      "Y": 0.0705
+                    },
+                    "LeftMargin": 699.6699,
+                    "RightMargin": 31.3301,
+                    "TopMargin": 29.9581,
+                    "BottomMargin": 563.0419,
+                    "Tag": 487,
+                    "ActionTag": -348262292,
+                    "Size": {
+                      "X": 45.0,
+                      "Y": 45.0
+                    },
+                    "Name": "btn_close_soi_cau2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/bg_soicau_xiu.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 458.0,
+                      "Y": 563.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5902,
+                      "Y": 0.8824
+                    },
+                    "PreSize": {
+                      "X": 0.1534,
+                      "Y": 0.0658
+                    },
+                    "LeftMargin": 398.5,
+                    "RightMargin": 258.5,
+                    "TopMargin": 54.0,
+                    "BottomMargin": 542.0,
+                    "Tag": 228,
+                    "ActionTag": -2020759080,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 42.0
+                    },
+                    "Name": "bg_soicau_xiu_20",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/bg_soicau_tai.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 318.0,
+                      "Y": 563.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4098,
+                      "Y": 0.8824
+                    },
+                    "PreSize": {
+                      "X": 0.1534,
+                      "Y": 0.0658
+                    },
+                    "LeftMargin": 258.5,
+                    "RightMargin": 398.5,
+                    "TopMargin": 54.0,
+                    "BottomMargin": 542.0,
+                    "Tag": 229,
+                    "ActionTag": 1489451768,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 42.0
+                    },
+                    "Name": "bg_soicau_tai_19",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/bg_soicau_xiu.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 458.0,
+                      "Y": 310.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5902,
+                      "Y": 0.4859
+                    },
+                    "PreSize": {
+                      "X": 0.1534,
+                      "Y": 0.0658
+                    },
+                    "LeftMargin": 398.5,
+                    "RightMargin": 258.5,
+                    "TopMargin": 307.0,
+                    "BottomMargin": 289.0,
+                    "Tag": 230,
+                    "ActionTag": 859279516,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 42.0
+                    },
+                    "Name": "bg_soicau_xiu_20_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/bg_soicau_tai.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 318.0,
+                      "Y": 310.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4098,
+                      "Y": 0.4859
+                    },
+                    "PreSize": {
+                      "X": 0.1534,
+                      "Y": 0.0658
+                    },
+                    "LeftMargin": 258.5,
+                    "RightMargin": 398.5,
+                    "TopMargin": 307.0,
+                    "BottomMargin": 289.0,
+                    "Tag": 231,
+                    "ActionTag": 300926904,
+                    "Size": {
+                      "X": 119.0,
+                      "Y": 42.0
+                    },
+                    "Name": "bg_soicau_tai_19_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "TÀI: 20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 318.0,
+                      "Y": 310.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4098,
+                      "Y": 0.4859
+                    },
+                    "PreSize": {
+                      "X": 0.0851,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 285.0,
+                    "RightMargin": 425.0,
+                    "TopMargin": 316.5,
+                    "BottomMargin": 298.5,
+                    "Tag": 232,
+                    "ActionTag": -447947151,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_tai_soi_cau2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "XỈU: 20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 458.0,
+                      "Y": 310.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5902,
+                      "Y": 0.4859
+                    },
+                    "PreSize": {
+                      "X": 0.0902,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 423.0,
+                    "RightMargin": 283.0,
+                    "TopMargin": 316.5,
+                    "BottomMargin": 298.5,
+                    "Tag": 233,
+                    "ActionTag": 2036287336,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_xiu_soi_cau2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "TÀI: 20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 318.0,
+                      "Y": 563.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4098,
+                      "Y": 0.8824
+                    },
+                    "PreSize": {
+                      "X": 0.0851,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 285.0,
+                    "RightMargin": 425.0,
+                    "TopMargin": 63.5,
+                    "BottomMargin": 551.5,
+                    "Tag": 234,
+                    "ActionTag": -842082458,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_tai_soi_cau1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "XỈU: 20",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Black.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 458.0,
+                      "Y": 563.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5902,
+                      "Y": 0.8824
+                    },
+                    "PreSize": {
+                      "X": 0.0902,
+                      "Y": 0.0361
+                    },
+                    "LeftMargin": 423.0,
+                    "RightMargin": 283.0,
+                    "TopMargin": 63.5,
+                    "BottomMargin": 551.5,
+                    "Tag": 235,
+                    "ActionTag": -922907411,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_xiu_soi_cau1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/TaiXiu/images/tooltip01.png",
+                      "Plist": ""
+                    },
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 43,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 46,
+                    "Scale9Height": 20,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 252.6575,
+                      "Y": 395.9844
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3256,
+                      "Y": 0.6207
+                    },
+                    "PreSize": {
+                      "X": 0.1701,
+                      "Y": 0.0909
+                    },
+                    "LeftMargin": 186.6575,
+                    "RightMargin": 457.3425,
+                    "TopMargin": 213.0156,
+                    "BottomMargin": 366.9844,
+                    "Tag": 259,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 16,
+                        "LabelText": "Phiên: #123456",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Medium.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.0012,
+                          "Y": 44.0026
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.7587
+                        },
+                        "PreSize": {
+                          "X": 0.9318,
+                          "Y": 0.2759
+                        },
+                        "LeftMargin": 4.5012,
+                        "RightMargin": 4.4988,
+                        "TopMargin": 5.9974,
+                        "BottomMargin": 36.0026,
+                        "Tag": 260,
+                        "ActionTag": 2003170977,
+                        "Size": {
+                          "X": 123.0,
+                          "Y": 16.0
+                        },
+                        "Name": "lb_phien_tooltip",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "Tài (6,6,6)",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Medium.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 66.0012,
+                          "Y": 25.0037
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4311
+                        },
+                        "PreSize": {
+                          "X": 0.9318,
+                          "Y": 0.2759
+                        },
+                        "LeftMargin": 4.5012,
+                        "RightMargin": 4.4988,
+                        "TopMargin": 24.9963,
+                        "BottomMargin": 17.0037,
+                        "Tag": 261,
+                        "ActionTag": -2142295859,
+                        "Size": {
+                          "X": 123.0,
+                          "Y": 16.0
+                        },
+                        "Name": "lb_ket_qua_tooltip",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1397012058,
+                    "Size": {
+                      "X": 132.0,
+                      "Y": 58.0
+                    },
+                    "Name": "pToolTip",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -2147350820,
+                "Size": {
+                  "X": 776.0,
+                  "Y": 638.0
+                },
+                "Name": "pSoiCauTaiXiu2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/btn_close_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/btn_close_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/btn_close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 15,
+                "Scale9Height": 23,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 721.5756,
+                  "Y": 582.4756
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9299,
+                  "Y": 0.913
+                },
+                "PreSize": {
+                  "X": 0.058,
+                  "Y": 0.0705
+                },
+                "LeftMargin": 699.0756,
+                "RightMargin": 31.9244,
+                "TopMargin": 33.0244,
+                "BottomMargin": 559.9756,
+                "Tag": 236,
+                "ActionTag": 1958440022,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 45.0
+                },
+                "Name": "btn_close_soi_cau",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/mt9.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/mt9.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/mt1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 726.0,
+                  "Y": 319.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9356,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0992,
+                  "Y": 0.1301
+                },
+                "LeftMargin": 687.5,
+                "RightMargin": 11.5,
+                "TopMargin": 277.5,
+                "BottomMargin": 277.5,
+                "Tag": 237,
+                "ActionTag": 1276758240,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 83.0
+                },
+                "Name": "btn_neck_soi_cau",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/mt9.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/mt9.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/mt1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 47,
+                "Scale9Height": 61,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 50.0,
+                  "Y": 319.0
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 179.9825,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0644,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0992,
+                  "Y": 0.1301
+                },
+                "LeftMargin": 11.5,
+                "RightMargin": 687.5,
+                "TopMargin": 277.5,
+                "BottomMargin": 277.5,
+                "Tag": 238,
+                "ActionTag": -1608301325,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 83.0
+                },
+                "Name": "btn_back_soi_cau",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1790190176,
+            "Size": {
+              "X": 776.0,
+              "Y": 638.0
+            },
+            "Name": "pSoiCauTaiXiu",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Default/CheckBox_Disable.png",
+        "Default/CheckBox_Normal.png",
+        "Default/CheckBox_Press.png",
+        "Default/CheckBoxNode_Disable.png",
+        "Default/CheckBoxNode_Normal.png",
+        "Font/Roboto-Black.ttf",
+        "Font/Roboto-Medium.ttf",
+        "Minigame/ImageChung/bg_soicau1.png",
+        "Minigame/TaiXiu/images/bg_soicau_tai.png",
+        "Minigame/TaiXiu/images/bg_soicau_xiu.png",
+        "Minigame/TaiXiu/images/btn_close.png",
+        "Minigame/TaiXiu/images/btn_close_s.png",
+        "Minigame/TaiXiu/images/mt1.png",
+        "Minigame/TaiXiu/images/mt9.png",
+        "Minigame/TaiXiu/images/tooltip01.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

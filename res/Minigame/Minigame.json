@@ -1,0 +1,1450 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.4",
+  "Name": "Minigame",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 237,
+            "ActionTag": -1264598876,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pNenMiniGame",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "vong_to.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 112,
+            "Scale9OriginY": 112,
+            "Scale9Width": 125,
+            "Scale9Height": 125,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.2727,
+              "Y": 0.4847
+            },
+            "LeftMargin": 465.5,
+            "RightMargin": 465.5,
+            "TopMargin": 185.5,
+            "BottomMargin": 185.5,
+            "Tag": 47,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "cua.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "cua.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "cua.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 11,
+                "Scale9Width": 39,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 127.134,
+                  "Y": 55.2952
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 2.6972,
+                "RotationSkewY": 2.6972,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3643,
+                  "Y": 0.1584
+                },
+                "PreSize": {
+                  "X": 0.192,
+                  "Y": 0.1948
+                },
+                "LeftMargin": 93.634,
+                "RightMargin": 188.366,
+                "TopMargin": 259.7048,
+                "BottomMargin": 21.2952,
+                "Tag": 2,
+                "ActionTag": 1274638143,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 68.0
+                },
+                "Name": "btn_bau_cua",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "tai_xiu.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "tai_xiu.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "tai_xiu.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 11,
+                "Scale9Width": 46,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 295.0143,
+                  "Y": 223.8046
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 2.6972,
+                "RotationSkewY": 2.6972,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8453,
+                  "Y": 0.6413
+                },
+                "PreSize": {
+                  "X": 0.212,
+                  "Y": 0.2149
+                },
+                "LeftMargin": 258.0143,
+                "RightMargin": 16.9857,
+                "TopMargin": 87.6954,
+                "BottomMargin": 186.3046,
+                "Tag": 1,
+                "ActionTag": 1088444635,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 75.0
+                },
+                "Name": "btn_tai_xiu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "vong_quay.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "vong_quay.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "vong_quay.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 11,
+                "Scale9Width": 46,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 58.1906,
+                  "Y": 221.5215
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 2.6972,
+                "RotationSkewY": 2.6972,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1667,
+                  "Y": 0.6347
+                },
+                "PreSize": {
+                  "X": 0.212,
+                  "Y": 0.2149
+                },
+                "LeftMargin": 21.1906,
+                "RightMargin": 253.8094,
+                "TopMargin": 89.9785,
+                "BottomMargin": 184.0215,
+                "Tag": 3,
+                "ActionTag": -1996436485,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 75.0
+                },
+                "Name": "btn_vong_quay",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "mini_poke.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "mini_poke.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "mini_poke.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 14,
+                "Scale9OriginY": 11,
+                "Scale9Width": 46,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 58.6984,
+                  "Y": 128.9006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 2.6972,
+                "RotationSkewY": 2.6972,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1682,
+                  "Y": 0.3693
+                },
+                "PreSize": {
+                  "X": 0.212,
+                  "Y": 0.2149
+                },
+                "LeftMargin": 21.6984,
+                "RightMargin": 253.3016,
+                "TopMargin": 182.5994,
+                "BottomMargin": 91.4006,
+                "Tag": 4,
+                "ActionTag": 84300404,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 75.0
+                },
+                "Name": "btn_poker",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "minigame-01.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "minigame-01.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "minigame-01.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 77,
+                "Scale9Height": 85,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 174.5,
+                  "Y": 174.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.3066,
+                  "Y": 0.3066
+                },
+                "LeftMargin": 121.0,
+                "RightMargin": 121.0,
+                "TopMargin": 121.0,
+                "BottomMargin": 121.0,
+                "Tag": 86,
+                "ActionTag": 1727869159,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 107.0
+                },
+                "Name": "btn_minigame",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "cao_thap.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "cao_thap.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "cao_thap.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 37,
+                "Scale9Height": 46,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 128.1949,
+                  "Y": 290.0842
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3673,
+                  "Y": 0.8312
+                },
+                "PreSize": {
+                  "X": 0.192,
+                  "Y": 0.1948
+                },
+                "LeftMargin": 94.6949,
+                "RightMargin": 187.3051,
+                "TopMargin": 24.9158,
+                "BottomMargin": 256.0842,
+                "Tag": 760,
+                "ActionTag": 464142510,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 68.0
+                },
+                "Name": "btn_cao_thap",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "mail.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "mail.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "mail.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 44,
+                "Scale9Height": 53,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.4915,
+                  "Y": 288.2407
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6318,
+                  "Y": 0.8259
+                },
+                "PreSize": {
+                  "X": 0.212,
+                  "Y": 0.2149
+                },
+                "LeftMargin": 183.4915,
+                "RightMargin": 91.5085,
+                "TopMargin": 23.2593,
+                "BottomMargin": 250.7407,
+                "Tag": 302,
+                "ActionTag": 183415730,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 75.0
+                },
+                "Name": "btn_mail",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "poke_ball.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "poke_ball.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "poke_ball.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 48,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 292.2525,
+                  "Y": 127.4624
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8374,
+                  "Y": 0.3652
+                },
+                "PreSize": {
+                  "X": 0.2006,
+                  "Y": 0.2006
+                },
+                "LeftMargin": 257.2525,
+                "RightMargin": 21.7475,
+                "TopMargin": 186.5376,
+                "BottomMargin": 92.4624,
+                "Tag": 303,
+                "ActionTag": -845661533,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 70.0
+                },
+                "Name": "btn_mini_slot",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "coomingsoon.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "coomingsoon.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "coomingsoon.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 53,
+                "Scale9Height": 62,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 224.8543,
+                  "Y": 55.6949
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6443,
+                  "Y": 0.1596
+                },
+                "PreSize": {
+                  "X": 0.2378,
+                  "Y": 0.2407
+                },
+                "LeftMargin": 183.3543,
+                "RightMargin": 82.6457,
+                "TopMargin": 251.3051,
+                "BottomMargin": 13.6949,
+                "Tag": 304,
+                "ActionTag": -1357233636,
+                "Size": {
+                  "X": 83.0,
+                  "Y": 84.0
+                },
+                "Name": "btn_mail_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Tài Xỉu",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Bold.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 293.0,
+                  "Y": 178.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8395,
+                  "Y": 0.51
+                },
+                "PreSize": {
+                  "X": 0.3725,
+                  "Y": 0.0745
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": -9.0,
+                "TopMargin": 158.0,
+                "BottomMargin": 165.0,
+                "Tag": 581,
+                "ActionTag": 1491782189,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 26.0
+                },
+                "Name": "lb_tool_tip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "time.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 7,
+                "Scale9Width": 20,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 330.2341,
+                  "Y": 214.519
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9462,
+                  "Y": 0.6147
+                },
+                "PreSize": {
+                  "X": 0.1605,
+                  "Y": 0.0688
+                },
+                "LeftMargin": 330.2341,
+                "RightMargin": -37.2341,
+                "TopMargin": 110.481,
+                "BottomMargin": 214.519,
+                "Tag": 585,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "00:59",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.9974,
+                      "Y": 13.0009
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.9643,
+                      "Y": 0.9583
+                    },
+                    "LeftMargin": 0.9974,
+                    "RightMargin": 1.0026,
+                    "TopMargin": -0.5009,
+                    "BottomMargin": 1.5009,
+                    "Tag": 586,
+                    "ActionTag": -1872017956,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_time_tai_xiu2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1113227391,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 24.0
+                },
+                "Name": "pTimeTaiXiu2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "thong_bao.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 7,
+                "Scale9Width": 13,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 244.6064,
+                  "Y": 283.2868
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7009,
+                  "Y": 0.8117
+                },
+                "PreSize": {
+                  "X": 0.1605,
+                  "Y": 0.0688
+                },
+                "LeftMargin": 244.6064,
+                "RightMargin": 48.3936,
+                "TopMargin": 41.7132,
+                "BottomMargin": 283.2868,
+                "Tag": 589,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "10",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.9974,
+                      "Y": 13.0009
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.9643,
+                      "Y": 0.9583
+                    },
+                    "LeftMargin": 0.9974,
+                    "RightMargin": 1.0026,
+                    "TopMargin": -0.5009,
+                    "BottomMargin": 1.5009,
+                    "Tag": 590,
+                    "ActionTag": 127485170,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_count_email2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1517404178,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 24.0
+                },
+                "Name": "pCountEmail2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 259003750,
+            "Size": {
+              "X": 349.0,
+              "Y": 349.0
+            },
+            "Name": "pMiniGame",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "minigame-01.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1151.8291,
+              "Y": 586.214
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8999,
+              "Y": 0.8142
+            },
+            "PreSize": {
+              "X": 0.0836,
+              "Y": 0.1486
+            },
+            "LeftMargin": 1098.3291,
+            "RightMargin": 74.6709,
+            "TopMargin": 80.286,
+            "BottomMargin": 532.714,
+            "Tag": 63,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "minigame-02.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.5,
+                  "Y": 53.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.4486,
+                  "Y": 1.4486
+                },
+                "LeftMargin": -24.0,
+                "RightMargin": -24.0,
+                "TopMargin": -24.0,
+                "BottomMargin": -24.0,
+                "Tag": 305,
+                "ActionTag": 1240664118,
+                "Size": {
+                  "X": 155.0,
+                  "Y": 155.0
+                },
+                "Name": "sp_nhay",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "time.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 18,
+                "Scale9OriginY": 7,
+                "Scale9Width": 20,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 74.443,
+                  "Y": -17.1757
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6957,
+                  "Y": -0.1605
+                },
+                "PreSize": {
+                  "X": 0.5234,
+                  "Y": 0.2243
+                },
+                "LeftMargin": 74.443,
+                "RightMargin": -23.443,
+                "TopMargin": 100.1757,
+                "BottomMargin": -17.1757,
+                "Tag": 583,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "00:59",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.9974,
+                      "Y": 13.0009
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.9643,
+                      "Y": 0.9583
+                    },
+                    "LeftMargin": 0.9974,
+                    "RightMargin": 1.0026,
+                    "TopMargin": -0.5009,
+                    "BottomMargin": 1.5009,
+                    "Tag": 584,
+                    "ActionTag": 844198073,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_time_tai_xiu1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -425480078,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 24.0
+                },
+                "Name": "pTimeTaiXiu1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "thong_bao.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 7,
+                "Scale9Width": 13,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 57.3533,
+                  "Y": 93.5834
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.536,
+                  "Y": 0.8746
+                },
+                "PreSize": {
+                  "X": 0.5234,
+                  "Y": 0.2243
+                },
+                "LeftMargin": 57.3533,
+                "RightMargin": -6.3533,
+                "TopMargin": -10.5834,
+                "BottomMargin": 93.5834,
+                "Tag": 587,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "10",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 27.9974,
+                      "Y": 13.0009
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5417
+                    },
+                    "PreSize": {
+                      "X": 0.9643,
+                      "Y": 0.9583
+                    },
+                    "LeftMargin": 0.9974,
+                    "RightMargin": 1.0026,
+                    "TopMargin": -0.5009,
+                    "BottomMargin": 1.5009,
+                    "Tag": 588,
+                    "ActionTag": 942778735,
+                    "Size": {
+                      "X": 54.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_count_email1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1550811013,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 24.0
+                },
+                "Name": "pCountEmail1",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1803903733,
+            "Size": {
+              "X": 107.0,
+              "Y": 107.0
+            },
+            "Name": "img_center",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "cao_thap.png",
+        "coomingsoon.png",
+        "cua.png",
+        "Font/Roboto-Bold.ttf",
+        "Font/Roboto-Regular.ttf",
+        "mail.png",
+        "mini_poke.png",
+        "minigame-01.png",
+        "minigame-02.png",
+        "poke_ball.png",
+        "tai_xiu.png",
+        "thong_bao.png",
+        "time.png",
+        "vong_quay.png",
+        "vong_to.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

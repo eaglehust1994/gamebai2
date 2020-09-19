@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Avenger/item/wait/wait01/Wait_0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,373},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,745},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1117},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1489},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,1},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{721,1},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1093,1},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1465,1},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,349},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,721},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,1093},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{349,1465},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{697,349},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+			<key>Avenger/item/wait/wait01/Wait_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1069,349},{346,370}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{346,370}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistWait1.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistWait1.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

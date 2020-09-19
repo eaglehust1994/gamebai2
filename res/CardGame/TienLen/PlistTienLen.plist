@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>res/CardGame/TienLen/12LaDongMau.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1808,1},{505,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{505,118}</string>
+			</dict>
+			<key>res/CardGame/TienLen/13LaDongMau.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1928,1},{505,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{505,118}</string>
+			</dict>
+			<key>res/CardGame/TienLen/3DoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,282},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/4DoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{383,282},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/baConHai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{440,282},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/baDoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{497,282},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/banDuocDanh4DoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{554,282},{304,28}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{304,28}</string>
+			</dict>
+			<key>res/CardGame/TienLen/bonDoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,339},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/caLangSangTien.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{600,1},{629,132}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{629,132}</string>
+			</dict>
+			<key>res/CardGame/TienLen/doiHai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,396},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/hai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,453},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/namDoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{600,135},{505,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{505,118}</string>
+			</dict>
+			<key>res/CardGame/TienLen/phatLuong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1231,1},{575,135}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{575,135}</string>
+			</dict>
+			<key>res/CardGame/TienLen/sanhRong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{597,279}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{597,279}</string>
+			</dict>
+			<key>res/CardGame/TienLen/sauDoi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1107,135},{505,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{505,118}</string>
+			</dict>
+			<key>res/CardGame/TienLen/tuQuy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,510},{380,55}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{380,55}</string>
+			</dict>
+			<key>res/CardGame/TienLen/tuQuyHai.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{600,255},{505,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{505,118}</string>
+			</dict>
+			<key>res/CardGame/TienLen/wait4DoiThong.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,567},{261,24}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{261,24}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistTienLen.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistTienLen.png</string>
+			<key>size</key>
+			<string>{2048,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

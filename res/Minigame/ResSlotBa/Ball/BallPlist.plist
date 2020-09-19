@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,415},{167,166}}</string>
+				<key>offset</key>
+				<string>{0,-34}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,217},{164,198}}</string>
+				<key>offset</key>
+				<string>{1,-16}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{164,0},{164,217}}</string>
+				<key>offset</key>
+				<string>{1,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,459},{164,227}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{164,230}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,230},{164,229}}</string>
+				<key>offset</key>
+				<string>{1,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+			<key>Minigame/ResSlotBa/Ball/Poke_Ball_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,686},{164,227}}</string>
+				<key>offset</key>
+				<string>{1,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,234}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>BallPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>BallPlist.png</string>
+			<key>size</key>
+			<string>{331,913}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>331</integer>
+			<key>height</key>
+			<integer>913</integer>
+		</dict>
+	</dict>
+</plist>

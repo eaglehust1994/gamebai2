@@ -1,0 +1,10 @@
+Lieng = {};
+Lieng.MAX_BUY_IN = 250;
+Lieng.MAX_PLAYER = 9;
+Lieng.res = {};
+Lieng.res.bgClock = "res/common/avatar/Vong_Ngoai.png";
+Lieng.res.effectClock = "res/common/avatar/Vong_Vang.png";
+Lieng.res.laBaiChe = "res/CardGame/Poker/laBaiChe.png";
+Lieng.res.cardNamePath = "res/CardGame/BoBaiPoker/labai_";
+Lieng.res.endGameItemSlot = "res/CardGame/Poker/bg_content_ketqua.png";
+Lieng.res.circleEffectPng = "res/CardGame/CommonResource/BanChoi/effectTimePoker.png";

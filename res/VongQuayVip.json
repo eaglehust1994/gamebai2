@@ -1,0 +1,3253 @@
+{
+  "ID": "0e9fdafe-53eb-4e93-8109-d91b6a4af7eb",
+  "Version": "2.3.4",
+  "Name": "VongQuayVip",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 517,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 518,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Background_Vong_a.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 648.5,
+                  "Y": 354.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5066,
+                  "Y": 0.4917
+                },
+                "PreSize": {
+                  "X": 0.5641,
+                  "Y": 1.0028
+                },
+                "LeftMargin": 287.5,
+                "RightMargin": 270.5,
+                "TopMargin": 5.0,
+                "BottomMargin": -7.0,
+                "Tag": 1349,
+                "ActionTag": 103247597,
+                "Size": {
+                  "X": 722.0,
+                  "Y": 722.0
+                },
+                "Name": "bg_vongquay",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Vong_To.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0001,
+                  "Y": 328.9994
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.3531,
+                  "Y": 0.6278
+                },
+                "LeftMargin": 414.0001,
+                "RightMargin": 413.9999,
+                "TopMargin": 165.0006,
+                "BottomMargin": 102.9994,
+                "Tag": 522,
+                "ActionTag": -1395503453,
+                "Size": {
+                  "X": 452.0,
+                  "Y": 452.0
+                },
+                "Name": "vongngoai",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Vong_Nho.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.2109,
+                  "Y": 0.375
+                },
+                "LeftMargin": 505.0,
+                "RightMargin": 505.0,
+                "TopMargin": 256.0,
+                "BottomMargin": 194.0,
+                "Tag": 523,
+                "ActionTag": 1089233844,
+                "Size": {
+                  "X": 270.0,
+                  "Y": 270.0
+                },
+                "Name": "vongtrong",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Quay_Nor_00.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.1305,
+                  "Y": 0.2292
+                },
+                "LeftMargin": 556.5,
+                "RightMargin": 556.5,
+                "TopMargin": 308.5,
+                "BottomMargin": 246.5,
+                "Tag": 524,
+                "ActionTag": -977610790,
+                "Size": {
+                  "X": 167.0,
+                  "Y": 165.0
+                },
+                "Name": "sp_btn_start",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 808.3004,
+                  "Y": 554.0662
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6315,
+                  "Y": 0.7695
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 775.3004,
+                "RightMargin": 438.6996,
+                "TopMargin": 132.9338,
+                "BottomMargin": 521.0662,
+                "Tag": 525,
+                "ActionTag": 1265190760,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_vqv",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_01.png",
+                  "Plist": "ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Start_VQV.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.1458
+                },
+                "LeftMargin": 587.5,
+                "RightMargin": 587.5,
+                "TopMargin": 338.5,
+                "BottomMargin": 276.5,
+                "Tag": 527,
+                "ActionTag": 225886899,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 105.0
+                },
+                "Name": "effect_in_btn_start",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Light_Bi_Xoay.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -135.0,
+                "RotationSkewY": -135.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.0938,
+                  "Y": 0.1667
+                },
+                "LeftMargin": 580.0,
+                "RightMargin": 580.0,
+                "TopMargin": 331.0,
+                "BottomMargin": 269.0,
+                "Tag": 546,
+                "ActionTag": -1229663649,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 120.0
+                },
+                "Name": "effect_when_start",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Quang_Sang.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.3992,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 384.5,
+                "RightMargin": 384.5,
+                "TopMargin": 135.5,
+                "BottomMargin": 73.5,
+                "Tag": 528,
+                "ActionTag": 1784025708,
+                "Size": {
+                  "X": 511.0,
+                  "Y": 511.0
+                },
+                "Name": "effect_start_rotate",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Shadow_Bong.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.2719,
+                  "Y": 0.5986
+                },
+                "LeftMargin": 466.0,
+                "RightMargin": 466.0,
+                "TopMargin": 175.5,
+                "BottomMargin": 113.5,
+                "Tag": 1496,
+                "ActionTag": 1078821105,
+                "Size": {
+                  "X": 348.0,
+                  "Y": 431.0
+                },
+                "Name": "anhsang",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Quay_Click.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Quay_Click.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Quay_Click.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 72,
+                "Scale9Height": 79,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 329.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4569
+                },
+                "PreSize": {
+                  "X": 0.0797,
+                  "Y": 0.1403
+                },
+                "LeftMargin": 589.0,
+                "RightMargin": 589.0,
+                "TopMargin": 340.5,
+                "BottomMargin": 278.5,
+                "Tag": 526,
+                "ActionTag": 523225411,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 101.0
+                },
+                "Name": "btn_start_vqv",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/Ribbon.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 166,
+                "Scale9OriginY": 42,
+                "Scale9Width": 230,
+                "Scale9Height": 44,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 643.0,
+                  "Y": 100.0067
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5023,
+                  "Y": 0.1389
+                },
+                "PreSize": {
+                  "X": 0.4391,
+                  "Y": 0.1778
+                },
+                "LeftMargin": 362.0,
+                "RightMargin": 356.0,
+                "TopMargin": 555.9933,
+                "BottomMargin": 36.0067,
+                "Tag": 521,
+                "ActionTag": 1486528714,
+                "Size": {
+                  "X": 562.0,
+                  "Y": 128.0
+                },
+                "Name": "bg_trangtri",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/info_vip.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/info_vip.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/info_vip.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 408.998,
+                  "Y": 150.5772
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3195,
+                  "Y": 0.2091
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 379.998,
+                "RightMargin": 842.002,
+                "TopMargin": 540.4228,
+                "BottomMargin": 121.5772,
+                "Tag": 529,
+                "ActionTag": 1448658736,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Name": "btn_info_vqv",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/BG_Menu.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 871.2164,
+                  "Y": 150.58
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6806,
+                  "Y": 0.2091
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 842.2164,
+                "RightMargin": 379.7836,
+                "TopMargin": 540.42,
+                "BottomMargin": 121.58,
+                "Tag": 530,
+                "ActionTag": -1749443478,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Name": "bg_number_luot",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/1.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 871.22,
+                  "Y": 150.58
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6806,
+                  "Y": 0.2091
+                },
+                "PreSize": {
+                  "X": 0.0172,
+                  "Y": 0.0444
+                },
+                "LeftMargin": 860.22,
+                "RightMargin": 397.78,
+                "TopMargin": 553.42,
+                "BottomMargin": 134.58,
+                "Tag": 531,
+                "ActionTag": -2049461571,
+                "Size": {
+                  "X": 22.0,
+                  "Y": 32.0
+                },
+                "Name": "number_luot",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/EffectWin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.2461,
+                  "Y": 471.6062
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5002,
+                  "Y": 0.655
+                },
+                "PreSize": {
+                  "X": 0.1437,
+                  "Y": 0.2306
+                },
+                "LeftMargin": 548.2461,
+                "RightMargin": 547.7539,
+                "TopMargin": 165.3938,
+                "BottomMargin": 388.6062,
+                "Tag": 5963,
+                "ActionTag": 1821464517,
+                "Size": {
+                  "X": 184.0,
+                  "Y": 166.0
+                },
+                "VisibleForFrame": false,
+                "Name": "effectWin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Profile/VongquayVip/arrow_vqv.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.5,
+                  "Y": 555.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5004,
+                  "Y": 0.7708
+                },
+                "PreSize": {
+                  "X": 0.0172,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 629.5,
+                "RightMargin": 628.5,
+                "TopMargin": 140.0,
+                "BottomMargin": 530.0,
+                "Tag": 545,
+                "ActionTag": -1361504471,
+                "Size": {
+                  "X": 22.0,
+                  "Y": 50.0
+                },
+                "Name": "arrow",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "TopMargin": 360.0,
+                "BottomMargin": 360.0,
+                "Tag": 532,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -1.8,
+                      "Y": 21.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -11.8,
+                    "RightMargin": -8.2,
+                    "TopMargin": -31.2,
+                    "BottomMargin": 11.2,
+                    "Tag": 533,
+                    "ActionTag": 1650889156,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.7999,
+                      "Y": 14.6
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 14.7999,
+                    "RightMargin": -34.7999,
+                    "TopMargin": -24.6,
+                    "BottomMargin": 4.6,
+                    "Tag": 534,
+                    "ActionTag": 1272134606,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.4,
+                      "Y": -5.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 34.4,
+                    "RightMargin": -54.4,
+                    "TopMargin": -4.8,
+                    "BottomMargin": -15.2,
+                    "Tag": 535,
+                    "ActionTag": -1697006982,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.9999,
+                      "Y": -30.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 40.9999,
+                    "RightMargin": -60.9999,
+                    "TopMargin": 20.4,
+                    "BottomMargin": -40.4,
+                    "Tag": 536,
+                    "ActionTag": -1243550197,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 43.7999,
+                      "Y": -57.2005
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 33.7999,
+                    "RightMargin": -53.7999,
+                    "TopMargin": 47.2005,
+                    "BottomMargin": -67.2005,
+                    "Tag": 537,
+                    "ActionTag": 309755974,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_5",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 25.5999,
+                      "Y": -75.8011
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 15.5999,
+                    "RightMargin": -35.5999,
+                    "TopMargin": 65.8011,
+                    "BottomMargin": -85.8011,
+                    "Tag": 538,
+                    "ActionTag": 1901205151,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.8002,
+                      "Y": -83.0012
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -10.8002,
+                    "RightMargin": -9.1998,
+                    "TopMargin": 73.0012,
+                    "BottomMargin": -93.0012,
+                    "Tag": 539,
+                    "ActionTag": -1115783572,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -26.6001,
+                      "Y": -76.0021
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -36.6001,
+                    "RightMargin": 16.6001,
+                    "TopMargin": 66.0021,
+                    "BottomMargin": -86.0021,
+                    "Tag": 540,
+                    "ActionTag": -2003864536,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -46.4002,
+                      "Y": -56.6023
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -56.4002,
+                    "RightMargin": 36.4002,
+                    "TopMargin": 46.6023,
+                    "BottomMargin": -66.6023,
+                    "Tag": 541,
+                    "ActionTag": -1074870552,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -53.8,
+                      "Y": -30.6025
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -63.8,
+                    "RightMargin": 43.8,
+                    "TopMargin": 20.6025,
+                    "BottomMargin": -40.6025,
+                    "Tag": 542,
+                    "ActionTag": 1050983263,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_10",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -46.4001,
+                      "Y": -5.6028
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -56.4001,
+                    "RightMargin": 36.4001,
+                    "TopMargin": -4.3972,
+                    "BottomMargin": -15.6028,
+                    "Tag": 543,
+                    "ActionTag": 298741168,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_11",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -27.0001,
+                      "Y": 14.3972
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -37.0001,
+                    "RightMargin": 17.0001,
+                    "TopMargin": -24.3972,
+                    "BottomMargin": 4.3972,
+                    "Tag": 544,
+                    "ActionTag": 88565236,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "Name": "light_12",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -5862614,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_light_start",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -894536099,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_vqvip",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ResourceMenuTab/Profile/VongquayVip/Tab_Tong_ket.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 140,
+            "Scale9OriginY": 62,
+            "Scale9Width": 146,
+            "Scale9Height": 65,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 339.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4708
+            },
+            "PreSize": {
+              "X": 0.3328,
+              "Y": 0.2625
+            },
+            "LeftMargin": 427.0,
+            "RightMargin": 427.0,
+            "TopMargin": 286.5,
+            "BottomMargin": 244.5,
+            "Tag": 5403,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 395.9407,
+                  "Y": 132.3661
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9294,
+                  "Y": 0.7003
+                },
+                "PreSize": {
+                  "X": 0.1549,
+                  "Y": 0.3492
+                },
+                "LeftMargin": 362.9407,
+                "RightMargin": -2.9407,
+                "TopMargin": 23.6339,
+                "BottomMargin": 99.3661,
+                "Tag": 5404,
+                "ActionTag": -844808211,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_tongket",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 14.5353,
+                  "Y": 150.854
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0341,
+                  "Y": 0.7982
+                },
+                "PreSize": {
+                  "X": 0.939,
+                  "Y": 0.7143
+                },
+                "LeftMargin": 14.5353,
+                "RightMargin": 11.4647,
+                "TopMargin": 38.146,
+                "BottomMargin": 15.854,
+                "Tag": 5405,
+                "ActionTag": -947229480,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 135.0
+                },
+                "Name": "lb_tongket",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1134132661,
+            "Size": {
+              "X": 426.0,
+              "Y": 189.0
+            },
+            "Name": "pn_tongket",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.7222
+            },
+            "LeftMargin": 240.0,
+            "RightMargin": 240.0,
+            "TopMargin": 100.0,
+            "BottomMargin": 100.0,
+            "Tag": 6445,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/bgtab_mail.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 361,
+                "Scale9OriginY": 206,
+                "Scale9Width": 373,
+                "Scale9Height": 215,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 401.0893,
+                  "Y": 260.0385
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.5001
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 1.0893,
+                "RightMargin": -1.0893,
+                "TopMargin": -0.0385,
+                "BottomMargin": 0.0385,
+                "Tag": 6446,
+                "ActionTag": -392303502,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 520.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/Title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 157,
+                "Scale9OriginY": 20,
+                "Scale9Width": 164,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 401.09,
+                  "Y": 496.0387
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.9539
+                },
+                "PreSize": {
+                  "X": 0.4963,
+                  "Y": 0.1192
+                },
+                "LeftMargin": 202.59,
+                "RightMargin": 200.41,
+                "TopMargin": -7.0387,
+                "BottomMargin": 465.0387,
+                "Tag": 6447,
+                "ActionTag": -1122960111,
+                "Size": {
+                  "X": 397.0,
+                  "Y": 62.0
+                },
+                "Name": "title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 157,
+                "Scale9OriginY": 20,
+                "Scale9Width": 688,
+                "Scale9Height": 409,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 401.1268,
+                  "Y": 449.553
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.8645
+                },
+                "PreSize": {
+                  "X": 0.9663,
+                  "Y": 0.7365
+                },
+                "LeftMargin": 14.6268,
+                "RightMargin": 12.3732,
+                "TopMargin": 70.447,
+                "BottomMargin": 66.553,
+                "Tag": 6450,
+                "ActionTag": -1495353483,
+                "Size": {
+                  "X": 773.0,
+                  "Y": 383.0
+                },
+                "Name": "title_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 34,
+                "LabelText": "LỊCH SỬ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 401.09,
+                  "Y": 497.9724
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5014,
+                  "Y": 0.9576
+                },
+                "PreSize": {
+                  "X": 0.1675,
+                  "Y": 0.0769
+                },
+                "LeftMargin": 334.09,
+                "RightMargin": 331.91,
+                "TopMargin": 2.0276,
+                "BottomMargin": 477.9724,
+                "Tag": 6448,
+                "ActionTag": -1754320294,
+                "Size": {
+                  "X": 134.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_239",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 764.2198,
+                  "Y": 483.1104
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9553,
+                  "Y": 0.9291
+                },
+                "PreSize": {
+                  "X": 0.0825,
+                  "Y": 0.1269
+                },
+                "LeftMargin": 731.2198,
+                "RightMargin": 2.7802,
+                "TopMargin": 3.8896,
+                "BottomMargin": 450.1104,
+                "Tag": 6449,
+                "ActionTag": 2020022571,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_lichsu_vqv",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 800.0,
+                "TopMargin": 520.0,
+                "Tag": 6451,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Phiên",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 17.4136,
+                      "Y": 411.41
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 17.4136,
+                    "RightMargin": -182.4136,
+                    "TopMargin": -421.91,
+                    "BottomMargin": 400.91,
+                    "Tag": 6452,
+                    "ActionTag": -1283762632,
+                    "Size": {
+                      "X": 165.0,
+                      "Y": 21.0
+                    },
+                    "Name": "t1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Thời gian",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 183.2864,
+                      "Y": 411.41
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 183.2864,
+                    "RightMargin": -354.2864,
+                    "TopMargin": -421.91,
+                    "BottomMargin": 400.91,
+                    "Tag": 6453,
+                    "ActionTag": 752960870,
+                    "Size": {
+                      "X": 171.0,
+                      "Y": 21.0
+                    },
+                    "Name": "t2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Vòng ngoài",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 353.4706,
+                      "Y": 394.61
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 353.4706,
+                    "RightMargin": -569.4706,
+                    "TopMargin": -405.11,
+                    "BottomMargin": 384.11,
+                    "Tag": 6454,
+                    "ActionTag": -1357883649,
+                    "Size": {
+                      "X": 216.0,
+                      "Y": 21.0
+                    },
+                    "Name": "t3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Vòng trong",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 569.7029,
+                      "Y": 394.61
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 569.7029,
+                    "RightMargin": -784.7029,
+                    "TopMargin": -405.11,
+                    "BottomMargin": 384.11,
+                    "Tag": 6455,
+                    "ActionTag": -426010689,
+                    "Size": {
+                      "X": 215.0,
+                      "Y": 21.0
+                    },
+                    "Name": "t4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Kết quả",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 569.76,
+                      "Y": 428.7969
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 354.76,
+                    "RightMargin": -784.76,
+                    "TopMargin": -439.2969,
+                    "BottomMargin": 418.2969,
+                    "Tag": 6456,
+                    "ActionTag": 644074650,
+                    "Size": {
+                      "X": 430.0,
+                      "Y": 21.0
+                    },
+                    "Name": "t5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Mail/vach.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 299,
+                    "Scale9Width": 309,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 184.22,
+                      "Y": 446.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 184.22,
+                    "RightMargin": -254.22,
+                    "TopMargin": -446.0,
+                    "BottomMargin": 444.0,
+                    "Tag": 6457,
+                    "ActionTag": 1374815944,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 2.0
+                    },
+                    "Name": "Image_19",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Mail/vach.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 299,
+                    "Scale9Width": 309,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 355.0,
+                      "Y": 446.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 355.0,
+                    "RightMargin": -425.0,
+                    "TopMargin": -446.0,
+                    "BottomMargin": 444.0,
+                    "Tag": 6458,
+                    "ActionTag": 1678816704,
+                    "Size": {
+                      "X": 70.0,
+                      "Y": 2.0
+                    },
+                    "Name": "Image_19_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Mail/vach.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 299,
+                    "Scale9Width": 309,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 355.0248,
+                      "Y": 411.8653
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 355.0248,
+                    "RightMargin": -785.0248,
+                    "TopMargin": -412.8653,
+                    "BottomMargin": 410.8653,
+                    "Tag": 6459,
+                    "ActionTag": 901595967,
+                    "Size": {
+                      "X": 430.0,
+                      "Y": 2.0
+                    },
+                    "Name": "Image_19_0_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Mail/vach.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 299,
+                    "Scale9Width": 309,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 570.76,
+                      "Y": 411.59
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 570.76,
+                    "RightMargin": -606.76,
+                    "TopMargin": -411.59,
+                    "BottomMargin": 409.59,
+                    "Tag": 6460,
+                    "ActionTag": 798058592,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 2.0
+                    },
+                    "Name": "Image_19_0_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -570403120,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_title",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 17.0455,
+                  "Y": 376.8976
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0213,
+                  "Y": 0.7248
+                },
+                "PreSize": {
+                  "X": 0.96,
+                  "Y": 0.5769
+                },
+                "LeftMargin": 17.0455,
+                "RightMargin": 14.9545,
+                "TopMargin": 143.1024,
+                "BottomMargin": 76.8976,
+                "Tag": 6462,
+                "ActionTag": -1457206492,
+                "Size": {
+                  "X": 768.0,
+                  "Y": 300.0
+                },
+                "Name": "lv_ls_vqv",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 800.0,
+                "TopMargin": 520.0,
+                "Tag": 6762,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 19,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 266.7021,
+                      "Y": 38.4144
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 245.7021,
+                    "RightMargin": -287.7021,
+                    "TopMargin": -58.9144,
+                    "BottomMargin": 17.9144,
+                    "Tag": 6763,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 21.2439,
+                          "Y": 20.2817
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5058,
+                          "Y": 0.4947
+                        },
+                        "PreSize": {
+                          "X": 0.5,
+                          "Y": 0.4146
+                        },
+                        "LeftMargin": 10.7439,
+                        "RightMargin": 10.2561,
+                        "TopMargin": 12.2183,
+                        "BottomMargin": 11.7817,
+                        "Tag": 6834,
+                        "ActionTag": 518566671,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 17.0
+                        },
+                        "Name": "Sprite_162",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1981659034,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 41.0
+                    },
+                    "Name": "btn_backall",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 19,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 315.876,
+                      "Y": 38.4186
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 294.876,
+                    "RightMargin": -336.876,
+                    "TopMargin": -58.9186,
+                    "BottomMargin": 17.9186,
+                    "Tag": 6835,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 21.2439,
+                          "Y": 20.2817
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5058,
+                          "Y": 0.4947
+                        },
+                        "PreSize": {
+                          "X": 0.2857,
+                          "Y": 0.4146
+                        },
+                        "LeftMargin": 15.2439,
+                        "RightMargin": 14.7561,
+                        "TopMargin": 12.2183,
+                        "BottomMargin": 11.7817,
+                        "Tag": 6836,
+                        "ActionTag": -1810944734,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 17.0
+                        },
+                        "Name": "Sprite_162",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -1967509807,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 41.0
+                    },
+                    "Name": "btn_back",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_big.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 394.6162,
+                      "Y": 38.4186
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 344.1162,
+                    "RightMargin": -445.1162,
+                    "TopMargin": -58.9186,
+                    "BottomMargin": 17.9186,
+                    "Tag": 6837,
+                    "ActionTag": -1771721138,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 41.0
+                    },
+                    "Name": "Sprite_164",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 19,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 521.3553,
+                      "Y": 38.42
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 500.3553,
+                    "RightMargin": -542.3553,
+                    "TopMargin": -58.92,
+                    "BottomMargin": 17.92,
+                    "Tag": 6838,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 21.2439,
+                          "Y": 20.2817
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5058,
+                          "Y": 0.4947
+                        },
+                        "PreSize": {
+                          "X": 0.5,
+                          "Y": 0.4146
+                        },
+                        "LeftMargin": 10.7439,
+                        "RightMargin": 10.2561,
+                        "TopMargin": 12.2183,
+                        "BottomMargin": 11.7817,
+                        "Tag": 6839,
+                        "ActionTag": -259769428,
+                        "Size": {
+                          "X": 21.0,
+                          "Y": 17.0
+                        },
+                        "Name": "Sprite_162",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1827457398,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 41.0
+                    },
+                    "Name": "btn_nextall",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/lichsugiaodich/number.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 12,
+                    "Scale9Height": 19,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 472.7829,
+                      "Y": 38.42
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 451.7829,
+                    "RightMargin": -493.7829,
+                    "TopMargin": -58.92,
+                    "BottomMargin": 17.92,
+                    "Tag": 6840,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 21.2439,
+                          "Y": 20.2817
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5058,
+                          "Y": 0.4947
+                        },
+                        "PreSize": {
+                          "X": 0.2857,
+                          "Y": 0.4146
+                        },
+                        "LeftMargin": 15.2439,
+                        "RightMargin": 14.7561,
+                        "TopMargin": 12.2183,
+                        "BottomMargin": 11.7817,
+                        "Tag": 6841,
+                        "ActionTag": 1867833432,
+                        "Size": {
+                          "X": 12.0,
+                          "Y": 17.0
+                        },
+                        "Name": "Sprite_162",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -948250604,
+                    "Size": {
+                      "X": 42.0,
+                      "Y": 41.0
+                    },
+                    "Name": "btn_next",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "...",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 346.3818,
+                      "Y": 38.4186
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 346.3818,
+                    "RightMargin": -442.3818,
+                    "TopMargin": -49.9186,
+                    "BottomMargin": 26.9186,
+                    "Tag": 6842,
+                    "ActionTag": 283386920,
+                    "Size": {
+                      "X": 96.0,
+                      "Y": 23.0
+                    },
+                    "Name": "lb_page",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -584488854,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_page",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1283328714,
+            "Size": {
+              "X": 800.0,
+              "Y": 520.0
+            },
+            "Name": "pn_lichsu_vqv",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Bold.ttf",
+        "Font/Roboto-Regular.ttf",
+        "ResourceMenuTab/lichsugiaodich/back.png",
+        "ResourceMenuTab/lichsugiaodich/backall.png",
+        "ResourceMenuTab/lichsugiaodich/number.png",
+        "ResourceMenuTab/lichsugiaodich/number_big.png",
+        "ResourceMenuTab/lichsugiaodich/number_s.png",
+        "ResourceMenuTab/Mail/bgtab_mail.png",
+        "ResourceMenuTab/Mail/btnClose.png",
+        "ResourceMenuTab/Mail/btnClose_s.png",
+        "ResourceMenuTab/Mail/lopmo.png",
+        "ResourceMenuTab/Mail/Title.png",
+        "ResourceMenuTab/Mail/vach.png",
+        "ResourceMenuTab/Profile/VongquayVip/1.png",
+        "ResourceMenuTab/Profile/VongquayVip/arrow_vqv.png",
+        "ResourceMenuTab/Profile/VongquayVip/Background_Vong_a.png",
+        "ResourceMenuTab/Profile/VongquayVip/BG_Menu.png",
+        "ResourceMenuTab/Profile/VongquayVip/EffectWin.png",
+        "ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Start_VQV.plist",
+        "ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Start_VQV.png",
+        "ResourceMenuTab/Profile/VongquayVip/Glow/Light_Quay_TO.png",
+        "ResourceMenuTab/Profile/VongquayVip/Glow/Quang_Sang.png",
+        "ResourceMenuTab/Profile/VongquayVip/info_vip.png",
+        "ResourceMenuTab/Profile/VongquayVip/Light_Bi_Xoay.png",
+        "ResourceMenuTab/Profile/VongquayVip/Quay_Click.png",
+        "ResourceMenuTab/Profile/VongquayVip/Quay_Nor_00.png",
+        "ResourceMenuTab/Profile/VongquayVip/Ribbon.png",
+        "ResourceMenuTab/Profile/VongquayVip/Shadow_Bong.png",
+        "ResourceMenuTab/Profile/VongquayVip/Tab_Tong_ket.png",
+        "ResourceMenuTab/Profile/VongquayVip/Vong_Nho.png",
+        "ResourceMenuTab/Profile/VongquayVip/Vong_To.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

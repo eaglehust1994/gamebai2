@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,613},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1225},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{333,1},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{945,1},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1557,1},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{333,333},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{945,333},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1557,613},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{333,1225},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{333,665},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{945,665},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{665,997},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1277,1225},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{665,1329},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+			<key>Avenger/minigame/hulk/nhay/hulk_nhay_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1277,1557},{330,610}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{330,610}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>PlistHulkNhay.png</string>
+			<key>realTextureFileName</key>
+			<string>PlistHulkNhay.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

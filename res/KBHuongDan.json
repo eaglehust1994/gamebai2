@@ -1,0 +1,356 @@
+{
+  "ID": "41ab6c35-0a32-4296-8931-f776f405e366",
+  "Version": "2.3.4",
+  "Name": "KBHuongDan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 185,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 204,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -124,
+            "Scale9OriginY": -103,
+            "Scale9Width": 248,
+            "Scale9Height": 206,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 186,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/bg/bg_tab.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 100,
+                "Scale9OriginY": 126,
+                "Scale9Width": 1052,
+                "Scale9Height": 376,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 353.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4903
+                },
+                "PreSize": {
+                  "X": 0.9148,
+                  "Y": 0.9125
+                },
+                "LeftMargin": 54.5,
+                "RightMargin": 54.5,
+                "TopMargin": 38.5,
+                "BottomMargin": 24.5,
+                "Tag": 187,
+                "ActionTag": -1044093824,
+                "Size": {
+                  "X": 1171.0,
+                  "Y": 657.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/huong_dan.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 119,
+                "Scale9OriginY": 90,
+                "Scale9Width": 796,
+                "Scale9Height": 311,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 641.6552,
+                  "Y": 319.3961
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5013,
+                  "Y": 0.4436
+                },
+                "PreSize": {
+                  "X": 0.8078,
+                  "Y": 0.6819
+                },
+                "LeftMargin": 124.6552,
+                "RightMargin": 121.3448,
+                "TopMargin": 155.1039,
+                "BottomMargin": 73.8961,
+                "Tag": 188,
+                "ActionTag": -1099803372,
+                "Size": {
+                  "X": 1034.0,
+                  "Y": 491.0
+                },
+                "Name": "Image_2_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/bg/title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 650.0,
+                  "Y": 675.0003
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5078,
+                  "Y": 0.9375
+                },
+                "PreSize": {
+                  "X": 0.4484,
+                  "Y": 0.1181
+                },
+                "LeftMargin": 363.0,
+                "RightMargin": 343.0,
+                "TopMargin": 2.4997,
+                "BottomMargin": 632.5003,
+                "Tag": 189,
+                "Children": [
+                  {
+                    "FontSize": 46,
+                    "LabelText": "HƯỚNG DẪN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/arialbd.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 287.0001,
+                      "Y": 49.0002
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5765
+                    },
+                    "PreSize": {
+                      "X": 0.4983,
+                      "Y": 0.6235
+                    },
+                    "LeftMargin": 144.0001,
+                    "RightMargin": 143.9999,
+                    "TopMargin": 9.4998,
+                    "BottomMargin": 22.5002,
+                    "Tag": 190,
+                    "ActionTag": -410299181,
+                    "Size": {
+                      "X": 286.0,
+                      "Y": 53.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1987302901,
+                "Size": {
+                  "X": 574.0,
+                  "Y": 85.0
+                },
+                "Name": "Sprite_2_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/close_click.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/close_click.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "SlotKhoBau/huongdan/close_nor.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 48,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1166.0271,
+                  "Y": 636.2993
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.911,
+                  "Y": 0.8837
+                },
+                "PreSize": {
+                  "X": 0.0609,
+                  "Y": 0.1083
+                },
+                "LeftMargin": 1127.0271,
+                "RightMargin": 74.9729,
+                "TopMargin": 44.7007,
+                "BottomMargin": 597.2993,
+                "Tag": 191,
+                "ActionTag": 2017648138,
+                "Size": {
+                  "X": 78.0,
+                  "Y": 78.0
+                },
+                "Name": "btn_close_huong_dan",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 779089195,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pHuongDan",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/arialbd.ttf",
+        "SlotKhoBau/bg/bg_tab.png",
+        "SlotKhoBau/bg/title.png",
+        "SlotKhoBau/huongdan/close_click.png",
+        "SlotKhoBau/huongdan/close_nor.png",
+        "SlotKhoBau/huongdan/huong_dan.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

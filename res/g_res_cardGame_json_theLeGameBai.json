@@ -1,0 +1,1138 @@
+{
+  "ID": "873128bf-a105-456f-9a39-642a57f4ecc2",
+  "Version": "3.10.0.0",
+  "Name": "g_res_cardGame_json_theLeGameBai",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ResourceMenuTab/Mail/bgtab_mail.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 361,
+            "Scale9OriginY": 206,
+            "Scale9Width": 373,
+            "Scale9Height": 215,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Position": {
+              "X": 640,
+              "Y": 360
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "RightMargin": -1280.0,
+            "TopMargin": -720.0,
+            "Tag": 5,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.3728,
+                  "Y": 647.5792
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5003,
+                  "Y": 0.8994
+                },
+                "PreSize": {
+                  "X": 0.3734,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 401.3728,
+                "RightMargin": 400.6272,
+                "TopMargin": 41.4208,
+                "BottomMargin": 616.5792,
+                "Tag": 4,
+                "ActionTag": 1443040808,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "Title_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/bgtab_mail_small.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 299,
+                "Scale9Width": 333,
+                "Scale9Height": 103,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 641.3375,
+                  "Y": 535.0658
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.501,
+                  "Y": 0.7431
+                },
+                "PreSize": {
+                  "X": 0.8438,
+                  "Y": 0.1111
+                },
+                "LeftMargin": 101.3375,
+                "RightMargin": 98.6625,
+                "TopMargin": 144.9342,
+                "BottomMargin": 495.0658,
+                "Tag": 10,
+                "ActionTag": -1197652955,
+                "Size": {
+                  "X": 1080.0,
+                  "Y": 80.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Thời gian",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 180.3351,
+                  "Y": 534.4617
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1409,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0875,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 124.3351,
+                "RightMargin": 1043.6649,
+                "TopMargin": 171.5383,
+                "BottomMargin": 520.4617,
+                "Tag": 6,
+                "ActionTag": 1251942215,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 107.7589,
+                  "Y": 112.6611
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0842,
+                  "Y": 0.1565
+                },
+                "PreSize": {
+                  "X": 0.8281,
+                  "Y": 0.5278
+                },
+                "LeftMargin": 107.7589,
+                "RightMargin": 112.2411,
+                "TopMargin": 227.3389,
+                "BottomMargin": 112.6611,
+                "Tag": 5,
+                "ActionTag": 1170718097,
+                "Size": {
+                  "X": 1060.0,
+                  "Y": 380.0
+                },
+                "Name": "bangVinhDanhTable",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Tài khoản",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 377.9719,
+                  "Y": 534.4617
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2953,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0891,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 320.9719,
+                "RightMargin": 845.0281,
+                "TopMargin": 171.5383,
+                "BottomMargin": 520.4617,
+                "Tag": 7,
+                "ActionTag": 1179450289,
+                "Size": {
+                  "X": 114.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Phòng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 577.7107,
+                  "Y": 534.4617
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4513,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0602,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 539.2107,
+                "RightMargin": 663.7893,
+                "TopMargin": 171.5383,
+                "BottomMargin": 520.4617,
+                "Tag": 8,
+                "ActionTag": 2059541501,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_1_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Hũ chung",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 914.6418,
+                  "Y": 534.4617
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7146,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0883,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 858.1418,
+                "RightMargin": 308.8582,
+                "TopMargin": 171.5383,
+                "BottomMargin": 520.4617,
+                "Tag": 9,
+                "ActionTag": 1557274041,
+                "Size": {
+                  "X": 113.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_1_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Game",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1076.8905,
+                  "Y": 534.4617
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8413,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0875,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 1020.8905,
+                "RightMargin": 147.1095,
+                "TopMargin": 171.5383,
+                "BottomMargin": 520.4617,
+                "Tag": 10,
+                "ActionTag": -415545069,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_1_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "Thắng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 739.787,
+                  "Y": 534.4617
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.578,
+                  "Y": 0.7423
+                },
+                "PreSize": {
+                  "X": 0.0875,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 683.787,
+                "RightMargin": 484.213,
+                "TopMargin": 171.5383,
+                "BottomMargin": 520.4617,
+                "Tag": 11,
+                "ActionTag": -639155758,
+                "Size": {
+                  "X": 112.0,
+                  "Y": 28.0
+                },
+                "Name": "Text_1_4",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 9,
+                "Scale9Height": 7,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 496.835,
+                  "Y": 78.4514
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3882,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.0164,
+                  "Y": 0.0236
+                },
+                "LeftMargin": 486.335,
+                "RightMargin": 772.665,
+                "TopMargin": 633.0486,
+                "BottomMargin": 69.9514,
+                "Tag": 13,
+                "ActionTag": -373144863,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 17.0
+                },
+                "Name": "btn_backall",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 1,
+                "Scale9Height": 7,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 549.9319,
+                  "Y": 78.4514
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4296,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.0094,
+                  "Y": 0.0236
+                },
+                "LeftMargin": 543.9319,
+                "RightMargin": 724.0681,
+                "TopMargin": 633.0486,
+                "BottomMargin": 69.9514,
+                "Tag": 14,
+                "ActionTag": -589375444,
+                "Size": {
+                  "X": 12.0,
+                  "Y": 17.0
+                },
+                "Name": "btn_back",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FlipX": true,
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/backall.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 9,
+                "Scale9Height": 7,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 789.2339,
+                  "Y": 78.4514
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6166,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.0164,
+                  "Y": 0.0236
+                },
+                "LeftMargin": 778.7339,
+                "RightMargin": 480.2661,
+                "TopMargin": 633.0486,
+                "BottomMargin": 69.9514,
+                "Tag": 17,
+                "ActionTag": -896012434,
+                "Size": {
+                  "X": 21.0,
+                  "Y": 17.0
+                },
+                "Name": "btn_nextall",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FlipX": true,
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/back.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 1,
+                "Scale9Height": 7,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 736.1346,
+                  "Y": 78.4514
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5751,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.0094,
+                  "Y": 0.0236
+                },
+                "LeftMargin": 730.1346,
+                "RightMargin": 537.8654,
+                "TopMargin": 633.0486,
+                "BottomMargin": 69.9514,
+                "Tag": 18,
+                "ActionTag": -451265155,
+                "Size": {
+                  "X": 12.0,
+                  "Y": 17.0
+                },
+                "Name": "btn_next",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/lichsugiaodich/number_big.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 643.0336,
+                  "Y": 78.4511
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5024,
+                  "Y": 0.109
+                },
+                "PreSize": {
+                  "X": 0.0789,
+                  "Y": 0.0569
+                },
+                "LeftMargin": 592.5336,
+                "RightMargin": 586.4664,
+                "TopMargin": 621.0489,
+                "BottomMargin": 57.9511,
+                "Tag": 19,
+                "ActionTag": 734943824,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 41.0
+                },
+                "Name": "number_big_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "10/10",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 642.2672,
+                  "Y": 78.7836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5018,
+                  "Y": 0.1094
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 602.2672,
+                "RightMargin": 597.7328,
+                "TopMargin": 626.2164,
+                "BottomMargin": 63.7836,
+                "Tag": 20,
+                "ActionTag": 162135654,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 30.0
+                },
+                "Name": "lbCurrentPage",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FlipX": true,
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 6,
+                "Scale9OriginY": 5,
+                "Scale9Width": 54,
+                "Scale9Height": 56,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1142.2109,
+                  "Y": 622.1554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8924,
+                  "Y": 0.8641
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 1109.2109,
+                "RightMargin": 104.7891,
+                "TopMargin": 64.8446,
+                "BottomMargin": 589.1554,
+                "Tag": 21,
+                "ActionTag": 302945196,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btnCloseGuild",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "HŨ VÀNG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/arialbd.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 641.2158,
+                  "Y": 644.3099
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 89,
+                  "G": 67,
+                  "B": 12
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5009,
+                  "Y": 0.8949
+                },
+                "PreSize": {
+                  "X": 0.1367,
+                  "Y": 0.0611
+                },
+                "LeftMargin": 553.7158,
+                "RightMargin": 551.2842,
+                "TopMargin": 53.6901,
+                "BottomMargin": 622.3099,
+                "Tag": 19,
+                "ActionTag": 1719007078,
+                "Size": {
+                  "X": 175.0,
+                  "Y": 44.0
+                },
+                "Name": "Text_1_0_0",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1405823398,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pnHuongDan",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/arialbd.ttf",
+        "ResourceMenuTab/lichsugiaodich/back.png",
+        "ResourceMenuTab/lichsugiaodich/backall.png",
+        "ResourceMenuTab/lichsugiaodich/number_big.png",
+        "ResourceMenuTab/Mail/bgtab_mail.png",
+        "ResourceMenuTab/Mail/bgtab_mail_small.png",
+        "ResourceMenuTab/Mail/btnClose.png",
+        "ResourceMenuTab/Mail/Title.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

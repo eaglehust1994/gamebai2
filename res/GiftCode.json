@@ -1,0 +1,1247 @@
+{
+  "ID": "09301b2a-10d6-4cfc-8893-b9e1b33dff16",
+  "Version": "2.3.4",
+  "Name": "GiftCode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1435,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1436,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/bgtab_mail.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 171.9
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.6
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2387
+                },
+                "PreSize": {
+                  "X": 0.8555,
+                  "Y": 0.8708
+                },
+                "LeftMargin": 92.5,
+                "RightMargin": 92.5,
+                "TopMargin": -78.9,
+                "BottomMargin": 171.9,
+                "Tag": 1437,
+                "ActionTag": -547410988,
+                "Size": {
+                  "X": 1095.0,
+                  "Y": 627.0
+                },
+                "Name": "bg_tab_menu",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 127,
+                  "G": 127,
+                  "B": 127
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1038.707,
+                  "Y": 510.3058
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8115,
+                  "Y": 0.7088
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 1005.707,
+                "RightMargin": 208.293,
+                "TopMargin": 176.6942,
+                "BottomMargin": 477.3058,
+                "Tag": 1438,
+                "ActionTag": -81922091,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_giftcode",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0005,
+                  "Y": 523.1827
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7266
+                },
+                "PreSize": {
+                  "X": 0.3734,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 401.0005,
+                "RightMargin": 400.9995,
+                "TopMargin": 165.8173,
+                "BottomMargin": 492.1827,
+                "Tag": 1439,
+                "ActionTag": 1731124134,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "bg_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 38,
+                "LabelText": "NHẬP GIFTCODE",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0091,
+                  "Y": 524.0959
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7279
+                },
+                "PreSize": {
+                  "X": 0.2266,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 495.0091,
+                "RightMargin": 494.9909,
+                "TopMargin": 173.4041,
+                "BottomMargin": 501.5959,
+                "Tag": 1440,
+                "ActionTag": 485561795,
+                "Size": {
+                  "X": 290.0,
+                  "Y": 45.0
+                },
+                "Name": "txtInbox",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleX": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 263.0015
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3653
+                },
+                "PreSize": {
+                  "X": 0.6461,
+                  "Y": 0.2917
+                },
+                "LeftMargin": 226.5,
+                "RightMargin": 226.5,
+                "TopMargin": 246.9985,
+                "BottomMargin": 263.0015,
+                "Tag": 1441,
+                "ActionTag": -1986047061,
+                "Size": {
+                  "X": 827.0,
+                  "Y": 210.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 28,
+                "ButtonText": "Nhận thưởng",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 335,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0001,
+                  "Y": 218.9529
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3041
+                },
+                "PreSize": {
+                  "X": 0.1953,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 515.0001,
+                "RightMargin": 514.9999,
+                "TopMargin": 472.0471,
+                "BottomMargin": 189.9529,
+                "Tag": 1452,
+                "ActionTag": -2127372951,
+                "Size": {
+                  "X": 250.0,
+                  "Y": 58.0
+                },
+                "Name": "btn_nhanGift",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "* Nhập mã Giftcode của bạn vào ô bên dưới",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 440.0965
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6112
+                },
+                "PreSize": {
+                  "X": 0.2695,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 467.5,
+                "RightMargin": 467.5,
+                "TopMargin": 269.4035,
+                "BottomMargin": 429.5965,
+                "Tag": 1453,
+                "ActionTag": 1073523676,
+                "Size": {
+                  "X": 345.0,
+                  "Y": 21.0
+                },
+                "Name": "txtInbox_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "* Mỗi mã Giftcode chỉ áp dụng cho 1 Nickname",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 298.4311
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4145
+                },
+                "PreSize": {
+                  "X": 0.293,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 452.5,
+                "RightMargin": 452.5,
+                "TopMargin": 411.0689,
+                "BottomMargin": 287.9311,
+                "Tag": 1454,
+                "ActionTag": -2087621098,
+                "Size": {
+                  "X": 375.0,
+                  "Y": 21.0
+                },
+                "Name": "txtInbox_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 117,
+                "Scale9OriginY": 16,
+                "Scale9Width": 123,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 362.8996
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.504
+                },
+                "PreSize": {
+                  "X": 0.3516,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 415.0,
+                "RightMargin": 415.0,
+                "TopMargin": 332.1004,
+                "BottomMargin": 337.8996,
+                "Tag": 1456,
+                "ActionTag": 1656712004,
+                "Size": {
+                  "X": 450.0,
+                  "Y": 50.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Nhập mã giftcode:",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 12,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.6897,
+                  "Y": 363.3809
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4998,
+                  "Y": 0.5047
+                },
+                "PreSize": {
+                  "X": 0.3359,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 424.6897,
+                "RightMargin": 425.3103,
+                "TopMargin": 336.6191,
+                "BottomMargin": 343.3809,
+                "Tag": 1457,
+                "ActionTag": -943960229,
+                "Size": {
+                  "X": 430.0,
+                  "Y": 40.0
+                },
+                "Name": "tf_giftcode",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 3,
+                "Scale9Height": 11,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 882.1686,
+                  "Y": 362.7618
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6892,
+                  "Y": 0.5038
+                },
+                "PreSize": {
+                  "X": 0.0258,
+                  "Y": 0.0458
+                },
+                "LeftMargin": 865.6686,
+                "RightMargin": 381.3314,
+                "TopMargin": 340.7382,
+                "BottomMargin": 346.2618,
+                "Tag": 1458,
+                "ActionTag": -914597587,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 33.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_clear_gift",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -361,
+                "Scale9OriginY": -206,
+                "Scale9Width": 722,
+                "Scale9Height": 412,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 351.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4875
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "TopMargin": 369.0,
+                "BottomMargin": 351.0,
+                "Tag": 1460,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/btn_shop.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/btn_shop.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/btn_shop.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 315,
+                    "Scale9Height": 17,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.0012,
+                      "Y": 9.9999
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -640.0012,
+                    "RightMargin": -639.9988,
+                    "TopMargin": -369.9999,
+                    "BottomMargin": -350.0001,
+                    "Tag": 1464,
+                    "ActionTag": -1144334354,
+                    "Size": {
+                      "X": 1280.0,
+                      "Y": 720.0
+                    },
+                    "Name": "btn_close_thongbao",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Mail/bg_supersmaill_mail.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 184,
+                    "Scale9OriginY": 79,
+                    "Scale9Width": 192,
+                    "Scale9Height": 84,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 0.0001,
+                      "Y": 97.9997
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -379.9999,
+                    "RightMargin": -380.0001,
+                    "TopMargin": -97.9997,
+                    "BottomMargin": -62.0003,
+                    "Tag": 1461,
+                    "ActionTag": -1122186598,
+                    "Size": {
+                      "X": 760.0,
+                      "Y": 160.0
+                    },
+                    "Name": "bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "LabelText": "THÔNG BÁO",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0001,
+                      "Y": 57.9989
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -100.9999,
+                    "RightMargin": -101.0001,
+                    "TopMargin": -78.9989,
+                    "BottomMargin": 36.9989,
+                    "Tag": 1462,
+                    "ActionTag": 1561969282,
+                    "Size": {
+                      "X": 202.0,
+                      "Y": 42.0
+                    },
+                    "Name": "Text_14",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0005,
+                      "Y": -5.0003
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -349.9995,
+                    "RightMargin": -350.0005,
+                    "TopMargin": -24.9997,
+                    "BottomMargin": -35.0003,
+                    "Tag": 1463,
+                    "ActionTag": 704163157,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 60.0
+                    },
+                    "Name": "content_thongbao",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 18,
+                    "LabelText": "Chức mừng bạn, mã Giftcode của bạn nhận được:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0002,
+                      "Y": 23.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -196.4998,
+                    "RightMargin": -196.5002,
+                    "TopMargin": -33.5001,
+                    "BottomMargin": 12.5001,
+                    "Tag": 1465,
+                    "ActionTag": -1090652561,
+                    "Size": {
+                      "X": 393.0,
+                      "Y": 21.0
+                    },
+                    "Name": "ct_success",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "+ 1.000.000 VIN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0002,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 244,
+                      "G": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -196.4998,
+                    "RightMargin": -196.5002,
+                    "TopMargin": -10.5,
+                    "BottomMargin": -10.5,
+                    "Tag": 1466,
+                    "ActionTag": 380676852,
+                    "Size": {
+                      "X": 393.0,
+                      "Y": 21.0
+                    },
+                    "Name": "ct_vin",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "+ 1.000.000 VIN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0002,
+                      "Y": -22.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 192,
+                      "G": 193,
+                      "B": 195
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -196.4998,
+                    "RightMargin": -196.5002,
+                    "TopMargin": 11.5001,
+                    "BottomMargin": -32.5001,
+                    "Tag": 1467,
+                    "ActionTag": -1960467003,
+                    "Size": {
+                      "X": 393.0,
+                      "Y": 21.0
+                    },
+                    "Name": "ct_xu",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "+ 1 lượt quay slot",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": -44.0001
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 240,
+                      "B": 67
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -196.5,
+                    "RightMargin": -196.5,
+                    "TopMargin": 33.5001,
+                    "BottomMargin": -54.5001,
+                    "Tag": 1468,
+                    "ActionTag": 293329597,
+                    "Size": {
+                      "X": 393.0,
+                      "Y": 21.0
+                    },
+                    "Name": "ct_other",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1605329101,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_thongbao",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 139088086,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_giftcode",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Regular.ttf",
+        "ResourceMenuTab/BaoMat/closetf.png",
+        "ResourceMenuTab/Mail/bg_supersmaill_mail.png",
+        "ResourceMenuTab/Mail/bgtab_mail.png",
+        "ResourceMenuTab/Mail/btnClose.png",
+        "ResourceMenuTab/Mail/btnClose_s.png",
+        "ResourceMenuTab/Mail/button.png",
+        "ResourceMenuTab/Mail/button_s.png",
+        "ResourceMenuTab/Mail/lopmo.png",
+        "ResourceMenuTab/Mail/Title.png",
+        "ResourceMenuTab/Shopping/bg_2.png",
+        "ResourceMenuTab/Shopping/btn_shop.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

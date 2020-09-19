@@ -1,0 +1,1617 @@
+{
+  "ID": "d24f4eb4-746d-410e-b8bf-80fdde9c98de",
+  "Version": "2.3.4",
+  "Name": "Panel_OTP",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 4493,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 4494,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/bg_supersmaill_mail.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 184,
+                "Scale9OriginY": 79,
+                "Scale9Width": 192,
+                "Scale9Height": 84,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 515.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.7153
+                },
+                "PreSize": {
+                  "X": 0.5273,
+                  "Y": 0.4667
+                },
+                "LeftMargin": 302.5,
+                "RightMargin": 302.5,
+                "TopMargin": 205.0,
+                "BottomMargin": 179.0,
+                "Tag": 4495,
+                "ActionTag": 1335022252,
+                "Size": {
+                  "X": 675.0,
+                  "Y": 336.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 941.3552,
+                  "Y": 479.4584
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7354,
+                  "Y": 0.6659
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 908.3552,
+                "RightMargin": 305.6448,
+                "TopMargin": 207.5416,
+                "BottomMargin": 446.4584,
+                "Tag": 4496,
+                "ActionTag": 1036822055,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_otp",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 311.9165,
+                  "Y": 444.9051
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2437,
+                  "Y": 0.6179
+                },
+                "PreSize": {
+                  "X": 0.5117,
+                  "Y": 0.3542
+                },
+                "LeftMargin": 311.9165,
+                "RightMargin": 313.0835,
+                "TopMargin": 275.0949,
+                "BottomMargin": 189.9051,
+                "Tag": 4497,
+                "ActionTag": 1272746840,
+                "Size": {
+                  "X": 655.0,
+                  "Y": 255.0
+                },
+                "Name": "nen",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 492.4321
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6839
+                },
+                "PreSize": {
+                  "X": 0.3734,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 401.0,
+                "RightMargin": 401.0,
+                "TopMargin": 196.5679,
+                "BottomMargin": 461.4321,
+                "Tag": 4498,
+                "ActionTag": 1915800043,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "sp_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 36,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "LabelText": "NHẬP OTP",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 488.4008
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6783
+                },
+                "PreSize": {
+                  "X": 0.1453,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 547.0,
+                "RightMargin": 547.0,
+                "TopMargin": 209.0992,
+                "BottomMargin": 465.9008,
+                "Tag": 4499,
+                "ActionTag": 36752939,
+                "Size": {
+                  "X": 190,
+                  "Y": 50
+                },
+                "Name": "Title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 117,
+                "Scale9OriginY": 16,
+                "Scale9Width": 123,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 829.9999,
+                  "Y": 364.1092
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6484,
+                  "Y": 0.5057
+                },
+                "PreSize": {
+                  "X": 0.1328,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 659.9999,
+                "RightMargin": 450.0001,
+                "TopMargin": 335.8908,
+                "BottomMargin": 344.1092,
+                "Tag": 4500,
+                "ActionTag": 608668071,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 40.0
+                },
+                "Name": "bg_nhap",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 117,
+                "Scale9OriginY": 16,
+                "Scale9Width": 123,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 402.5,
+                  "Y": 364.1113
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3145,
+                  "Y": 0.5057
+                },
+                "PreSize": {
+                  "X": 0.1695,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 402.5,
+                "RightMargin": 660.5,
+                "TopMargin": 335.8887,
+                "BottomMargin": 344.1113,
+                "Tag": 4501,
+                "ActionTag": 24156344,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 40.0
+                },
+                "Name": "bg_sms_app",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "TELE OTP",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 508.4229,
+                  "Y": 363.8089
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3972,
+                  "Y": 0.5053
+                },
+                "PreSize": {
+                  "X": 0.1273,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 426.9229,
+                "RightMargin": 690.0771,
+                "TopMargin": 333.6911,
+                "BottomMargin": 341.3089,
+                "Tag": 4502,
+                "ActionTag": 696712808,
+                "Size": {
+                  "X": 163.0,
+                  "Y": 45.0
+                },
+                "Name": "txt_chose",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/muiten_xuong.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 601.493,
+                  "Y": 367.0981
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4699,
+                  "Y": 0.5099
+                },
+                "PreSize": {
+                  "X": 0.0289,
+                  "Y": 0.0653
+                },
+                "LeftMargin": 582.993,
+                "RightMargin": 660.007,
+                "TopMargin": 329.4019,
+                "BottomMargin": 343.5981,
+                "Tag": 4503,
+                "ActionTag": 638731760,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 47.0
+                },
+                "Name": "sp_muiten",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 22,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "LabelText": "",
+                "PlaceHolderText": "Nhập OTP",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 6,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 744.7869,
+                  "Y": 363.9317
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5819,
+                  "Y": 0.5055
+                },
+                "PreSize": {
+                  "X": 0.1227,
+                  "Y": 0.05
+                },
+                "LeftMargin": 666.2869,
+                "RightMargin": 456.7131,
+                "TopMargin": 338.0683,
+                "BottomMargin": 345.9317,
+                "Tag": 4504,
+                "ActionTag": 1642428228,
+                "Size": {
+                  "X": 165,
+                  "Y": 36.0
+                },
+                "Name": "tf_insert_otp",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/bt2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/bt2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/bt2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 177,
+                "Scale9Height": 17,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 512.1226,
+                  "Y": 364.483
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4001,
+                  "Y": 0.5062
+                },
+                "PreSize": {
+                  "X": 0.1617,
+                  "Y": 0.0542
+                },
+                "LeftMargin": 408.6226,
+                "RightMargin": 664.3774,
+                "TopMargin": 336.017,
+                "BottomMargin": 344.983,
+                "Tag": 4505,
+                "ActionTag": -1424843697,
+                "Size": {
+                  "X": 207.0,
+                  "Y": 39.0
+                },
+                "Name": "btn_chose_sms_app",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/btn_tieptuc_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/btn_tieptuc_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/btn_tieptuc.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 335,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9998,
+                  "Y": 219.7007
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3051
+                },
+                "PreSize": {
+                  "X": 0.2852,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 457.4998,
+                "RightMargin": 457.5002,
+                "TopMargin": 471.2993,
+                "BottomMargin": 190.7007,
+                "Tag": 4506,
+                "ActionTag": -975170782,
+                "Size": {
+                  "X": 365.0,
+                  "Y": 58.0
+                },
+                "Name": "btn_confirm_otp",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "TELE OTP :",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 318.89,
+                  "Y": 306.4124
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2491,
+                  "Y": 0.4256
+                },
+                "PreSize": {
+                  "X": 0.068,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 318.89,
+                "RightMargin": 874.11,
+                "TopMargin": 403.0876,
+                "BottomMargin": 295.9124,
+                "Tag": 4507,
+                "ActionTag": 1326236798,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 21.0
+                },
+                "Name": "txt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 18,
+                "LabelText": "APP OTP :",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 318.89,
+                  "Y": 267.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2491,
+                  "Y": 0.3711
+                },
+                "PreSize": {
+                  "X": 0.0641,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 318.89,
+                "RightMargin": 879.11,
+                "TopMargin": 442.34,
+                "BottomMargin": 256.66,
+                "Tag": 4508,
+                "ActionTag": -1805328924,
+                "Size": {
+                  "X": 86,
+                  "Y": 21.0
+                },
+                "Name": "txt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 18,
+                "LabelText": "Nếu bạn đã cài APP OTP. Vui lòng bật APP OTP để lấy mã xác thực",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 404.89,
+                  "Y": 267.1601
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3163,
+                  "Y": 0.3711
+                },
+                "PreSize": {
+                  "X": 0.4109,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 404.89,
+                "RightMargin": 349.11,
+                "TopMargin": 442.3399,
+                "BottomMargin": 256.6601,
+                "Tag": 4509,
+                "ActionTag": 1123302211,
+                "Size": {
+                  "X": 550,
+                  "Y": 21.0
+                },
+                "Name": "txt_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "                       Bật app telegram lên để gửi và nhận mã xác thực",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 318.5421,
+                  "Y": 316.801
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2489,
+                  "Y": 0.44
+                },
+                "PreSize": {
+                  "X": 0.4961,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 318.5421,
+                "RightMargin": 326.4579,
+                "TopMargin": 403.199,
+                "BottomMargin": 264.801,
+                "Tag": 4510,
+                "ActionTag": 1233879416,
+                "Size": {
+                  "X": 635.0,
+                  "Y": 52.0
+                },
+                "Name": "txt_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 603.8899,
+                  "Y": 267.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4718,
+                  "Y": 0.3711
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 529.8899,
+                "RightMargin": 676.1101,
+                "TopMargin": 442.34,
+                "BottomMargin": 256.66,
+                "Tag": 4511,
+                "ActionTag": -1242813856,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 21.0
+                },
+                "Name": "txt_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 548.4088,
+                  "Y": 304.1603
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4284,
+                  "Y": 0.4224
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 548.4088,
+                "RightMargin": 661.5912,
+                "TopMargin": 405.3397,
+                "BottomMargin": 293.6603,
+                "Tag": 4512,
+                "ActionTag": -788958245,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 21.0
+                },
+                "Name": "text_otp1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 639.9999,
+                  "Y": 439.6736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6107
+                },
+                "PreSize": {
+                  "X": 0.4961,
+                  "Y": 0.075
+                },
+                "LeftMargin": 322.4999,
+                "RightMargin": 322.5001,
+                "TopMargin": 280.3264,
+                "BottomMargin": 385.6736,
+                "Tag": 4513,
+                "ActionTag": -1793869109,
+                "Size": {
+                  "X": 635.0,
+                  "Y": 54.0
+                },
+                "Name": "txt_content",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "8079",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 654.9412,
+                  "Y": 305.5273
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5117,
+                  "Y": 0.4243
+                },
+                "PreSize": {
+                  "X": 0.043,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 654.9412,
+                "RightMargin": 570.0588,
+                "TopMargin": 403.9727,
+                "BottomMargin": 295.0273,
+                "Tag": 433,
+                "ActionTag": 1306553701,
+                "Size": {
+                  "X": 55.0,
+                  "Y": 21.0
+                },
+                "Name": "otp_dauso",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 402.1076,
+                  "Y": 339.0795
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3141,
+                  "Y": 0.4709
+                },
+                "PreSize": {
+                  "X": 0.1703,
+                  "Y": 0.1222
+                },
+                "LeftMargin": 402.1076,
+                "RightMargin": 659.8924,
+                "TopMargin": 380.9205,
+                "BottomMargin": 251.0795,
+                "Tag": 4514,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/BaoMat/bt2.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/BaoMat/bt2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/BaoMat/bt2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 177,
+                    "Scale9Height": 17,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -1005.6479,
+                      "Y": -912.7341
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -4.6131,
+                      "Y": -10.372
+                    },
+                    "PreSize": {
+                      "X": 11.7431,
+                      "Y": 22.7273
+                    },
+                    "LeftMargin": -1005.6479,
+                    "RightMargin": -1336.3521,
+                    "TopMargin": -999.2659,
+                    "BottomMargin": -912.7341,
+                    "Tag": 4515,
+                    "ActionTag": -1986822053,
+                    "Size": {
+                      "X": 2560.0,
+                      "Y": 2000.0
+                    },
+                    "Name": "btn_close_chose_otp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 19,
+                      "G": 50,
+                      "B": 112
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 217.0003,
+                      "Y": 87.0004
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9954,
+                      "Y": 0.9886
+                    },
+                    "PreSize": {
+                      "X": 0.9908,
+                      "Y": 0.9773
+                    },
+                    "LeftMargin": 1.0003,
+                    "RightMargin": 0.9997,
+                    "TopMargin": 0.9996,
+                    "BottomMargin": 1.0004,
+                    "Tag": 4516,
+                    "ActionTag": -122958412,
+                    "Size": {
+                      "X": 216.0,
+                      "Y": 86.0
+                    },
+                    "Name": "Panel_77",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "ButtonText": "TELE OTP",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/txt_the.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/txt_the.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/txt_the.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 96,
+                    "Scale9Height": 8,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 212.0304,
+                      "Y": 81.4709
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9726,
+                      "Y": 0.9258
+                    },
+                    "PreSize": {
+                      "X": 0.945,
+                      "Y": 0.375
+                    },
+                    "LeftMargin": 6.0304,
+                    "RightMargin": 5.9696,
+                    "TopMargin": 6.5291,
+                    "BottomMargin": 48.4709,
+                    "Tag": 4517,
+                    "ActionTag": 316024231,
+                    "Size": {
+                      "X": 206.0,
+                      "Y": 33.0
+                    },
+                    "Name": "btn_otp_sms",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "ButtonText": "APP OTP",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "TextColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/txt_the.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/txt_the.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/Shopping/txt_the.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 96,
+                    "Scale9Height": 8,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 212.0304,
+                      "Y": 40.8506
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9726,
+                      "Y": 0.4642
+                    },
+                    "PreSize": {
+                      "X": 0.945,
+                      "Y": 0.375
+                    },
+                    "LeftMargin": 6.0304,
+                    "RightMargin": 5.9696,
+                    "TopMargin": 47.1494,
+                    "BottomMargin": 7.8506,
+                    "Tag": 4518,
+                    "ActionTag": -1606726642,
+                    "Size": {
+                      "X": 206.0,
+                      "Y": 33.0
+                    },
+                    "Name": "btn_otp_app",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -2058675608,
+                "Size": {
+                  "X": 218.0,
+                  "Y": 88.0
+                },
+                "Name": "pn_chose_otp",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 18,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 791.9009,
+                  "Y": 267.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 253,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6187,
+                  "Y": 0.3711
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 717.9009,
+                "RightMargin": 488.0991,
+                "TopMargin": 442.34,
+                "BottomMargin": 256.66,
+                "Tag": 358,
+                "ActionTag": -323017967,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 21.0
+                },
+                "Name": "text_otp2",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1585629998,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_OTP",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Regular.ttf",
+        "ResourceMenuTab/BaoMat/bt2.png",
+        "ResourceMenuTab/Mail/bg_supersmaill_mail.png",
+        "ResourceMenuTab/Mail/btnClose.png",
+        "ResourceMenuTab/Mail/btnClose_s.png",
+        "ResourceMenuTab/Mail/lopmo.png",
+        "ResourceMenuTab/Mail/Title.png",
+        "ResourceMenuTab/Shopping/bg_2.png",
+        "ResourceMenuTab/Shopping/btn_tieptuc.png",
+        "ResourceMenuTab/Shopping/btn_tieptuc_s.png",
+        "ResourceMenuTab/Shopping/muiten_xuong.png",
+        "ResourceMenuTab/Shopping/txt_the.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

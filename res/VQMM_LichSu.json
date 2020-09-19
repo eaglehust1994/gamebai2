@@ -1,0 +1,1463 @@
+{
+  "ID": "67a4c396-e872-4c5b-a360-0e0706224743",
+  "Version": "2.3.4",
+  "Name": "VQMM_LichSu",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 318,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 629.88,
+              "Y": 352.7757
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4921,
+              "Y": 0.49
+            },
+            "PreSize": {
+              "X": 0.5523,
+              "Y": 0.6903
+            },
+            "LeftMargin": 276.38,
+            "RightMargin": 296.62,
+            "TopMargin": 118.7243,
+            "BottomMargin": 104.2757,
+            "Tag": 326,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 353.8431,
+                  "Y": 425.8178
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5005,
+                  "Y": 0.8568
+                },
+                "PreSize": {
+                  "X": 0.9689,
+                  "Y": 0.829
+                },
+                "LeftMargin": 11.3431,
+                "RightMargin": 10.6569,
+                "TopMargin": 71.1822,
+                "BottomMargin": 13.8178,
+                "Tag": 1598,
+                "ActionTag": -610198305,
+                "Size": {
+                  "X": 685.0,
+                  "Y": 412.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 671.25,
+                  "Y": 463.17
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9494,
+                  "Y": 0.9319
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.1147
+                },
+                "LeftMargin": 642.25,
+                "RightMargin": 6.75,
+                "TopMargin": 5.33,
+                "BottomMargin": 434.67,
+                "Tag": 1597,
+                "ActionTag": 437752830,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btnCloseLS",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 355.3066,
+                  "Y": 471.8199
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5026,
+                  "Y": 0.9493
+                },
+                "PreSize": {
+                  "X": 0.6761,
+                  "Y": 0.1247
+                },
+                "LeftMargin": 116.3066,
+                "RightMargin": 112.6934,
+                "TopMargin": -5.8199,
+                "BottomMargin": 440.8199,
+                "Tag": 323,
+                "ActionTag": 1734581684,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "nenTitle",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "LỊCH SỬ GIAO DỊCH",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 183,
+                  "G": 123,
+                  "B": 76
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 355.3026,
+                  "Y": 466.8811
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5025,
+                  "Y": 0.9394
+                },
+                "PreSize": {
+                  "X": 0.3748,
+                  "Y": 0.0704
+                },
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 222.8026,
+                "RightMargin": 219.1974,
+                "TopMargin": 12.6189,
+                "BottomMargin": 449.3811,
+                "Tag": 324,
+                "ActionTag": 519023189,
+                "Size": {
+                  "X": 265.0,
+                  "Y": 35.0
+                },
+                "Name": "txt_title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 354.0519,
+                  "Y": 361.4412
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5008,
+                  "Y": 0.7272
+                },
+                "PreSize": {
+                  "X": 0.9618,
+                  "Y": 0.6036
+                },
+                "LeftMargin": 14.0519,
+                "RightMargin": 12.9481,
+                "TopMargin": 135.5588,
+                "BottomMargin": 61.4412,
+                "Tag": 339,
+                "ActionTag": 370377335,
+                "Size": {
+                  "X": 680.0,
+                  "Y": 300.0
+                },
+                "Name": "list_ls_VQMM",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 23,
+                  "G": 57,
+                  "B": 106
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 353.9999,
+                  "Y": 422.4001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5007,
+                  "Y": 0.8499
+                },
+                "PreSize": {
+                  "X": 0.9194,
+                  "Y": 0.1227
+                },
+                "LeftMargin": 28.9999,
+                "RightMargin": 28.0001,
+                "TopMargin": 74.5999,
+                "BottomMargin": 361.4001,
+                "Tag": 327,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 125.8797,
+                      "Y": -0.0281
+                    },
+                    "Scale": {
+                      "ScaleX": 2.0,
+                      "ScaleY": 1.49
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1937,
+                      "Y": -0.0005
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 0.6721
+                    },
+                    "LeftMargin": 125.3797,
+                    "RightMargin": 523.6202,
+                    "TopMargin": 20.0281,
+                    "BottomMargin": -0.0281,
+                    "Tag": 328,
+                    "ActionTag": -415363986,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vach1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 284.8799,
+                      "Y": -0.0301
+                    },
+                    "Scale": {
+                      "ScaleX": 2.0,
+                      "ScaleY": 1.49
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4383,
+                      "Y": -0.0005
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 0.6721
+                    },
+                    "LeftMargin": 284.3799,
+                    "RightMargin": 364.6201,
+                    "TopMargin": 20.0301,
+                    "BottomMargin": -0.0301,
+                    "Tag": 330,
+                    "ActionTag": -401782767,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vach2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 392.8818,
+                      "Y": -0.03
+                    },
+                    "Scale": {
+                      "ScaleX": 2.0,
+                      "ScaleY": 0.76
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6044,
+                      "Y": -0.0005
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 0.6721
+                    },
+                    "LeftMargin": 392.3818,
+                    "RightMargin": 256.6182,
+                    "TopMargin": 20.03,
+                    "BottomMargin": -0.03,
+                    "Tag": 331,
+                    "ActionTag": -1044008729,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vach3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Phiên",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 55.4897,
+                      "Y": 30.5096
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0854,
+                      "Y": 0.5002
+                    },
+                    "PreSize": {
+                      "X": 0.2154,
+                      "Y": 0.377
+                    },
+                    "LeftMargin": -14.5103,
+                    "RightMargin": 524.5103,
+                    "TopMargin": 18.9904,
+                    "BottomMargin": 19.0096,
+                    "Tag": 332,
+                    "ActionTag": 618973636,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 23.0
+                    },
+                    "Name": "title_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Thời gian",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 205.1997,
+                      "Y": 30.5096
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3157,
+                      "Y": 0.5002
+                    },
+                    "PreSize": {
+                      "X": 0.2446,
+                      "Y": 0.377
+                    },
+                    "LeftMargin": 125.6997,
+                    "RightMargin": 365.3003,
+                    "TopMargin": 18.9904,
+                    "BottomMargin": 19.0096,
+                    "Tag": 333,
+                    "ActionTag": 1568434713,
+                    "Size": {
+                      "X": 159.0,
+                      "Y": 23.0
+                    },
+                    "Name": "title_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Vòng VIN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 338.89,
+                      "Y": 14.7036
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5214,
+                      "Y": 0.241
+                    },
+                    "PreSize": {
+                      "X": 0.1646,
+                      "Y": 0.377
+                    },
+                    "LeftMargin": 285.39,
+                    "RightMargin": 257.61,
+                    "TopMargin": 34.7964,
+                    "BottomMargin": 3.2036,
+                    "Tag": 334,
+                    "ActionTag": 919647472,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 23.0
+                    },
+                    "Name": "title_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Vòng Xu",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 446.89,
+                      "Y": 15.7034
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6875,
+                      "Y": 0.2574
+                    },
+                    "PreSize": {
+                      "X": 0.1646,
+                      "Y": 0.377
+                    },
+                    "LeftMargin": 393.39,
+                    "RightMargin": 149.61,
+                    "TopMargin": 33.7966,
+                    "BottomMargin": 4.2034,
+                    "Tag": 335,
+                    "ActionTag": -635963395,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 23.0
+                    },
+                    "Name": "title_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 285.3601,
+                      "Y": 32.2699
+                    },
+                    "Scale": {
+                      "ScaleX": 2.0,
+                      "ScaleY": 9.24
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.439,
+                      "Y": 0.529
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 0.6721
+                    },
+                    "LeftMargin": 285.3601,
+                    "RightMargin": 363.6399,
+                    "TopMargin": -12.2699,
+                    "BottomMargin": 32.2699,
+                    "Tag": 336,
+                    "ActionTag": -180717684,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vach4",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Kết quả",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 459.1996,
+                      "Y": 48.2299
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7065,
+                      "Y": 0.7907
+                    },
+                    "PreSize": {
+                      "X": 0.5369,
+                      "Y": 0.377
+                    },
+                    "LeftMargin": 284.6996,
+                    "RightMargin": 16.3004,
+                    "TopMargin": 1.2701,
+                    "BottomMargin": 36.7299,
+                    "Tag": 337,
+                    "ActionTag": -1116960298,
+                    "Size": {
+                      "X": 349.0,
+                      "Y": 23.0
+                    },
+                    "Name": "title_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/vachdung.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5
+                    },
+                    "Position": {
+                      "X": 500.8847,
+                      "Y": -0.0299
+                    },
+                    "Scale": {
+                      "ScaleX": 2.0,
+                      "ScaleY": 0.76
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7706,
+                      "Y": -0.0005
+                    },
+                    "PreSize": {
+                      "X": 0.0015,
+                      "Y": 0.6721
+                    },
+                    "LeftMargin": 500.3847,
+                    "RightMargin": 148.6153,
+                    "TopMargin": 20.0299,
+                    "BottomMargin": -0.0299,
+                    "Tag": 5330,
+                    "ActionTag": -1661183175,
+                    "Size": {
+                      "X": 1.0,
+                      "Y": 41.0
+                    },
+                    "Name": "vach3_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 18,
+                    "LabelText": "Vòng Slot",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 582.89,
+                      "Y": 15.7032
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 223,
+                      "B": 88
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8968,
+                      "Y": 0.2574
+                    },
+                    "PreSize": {
+                      "X": 0.2508,
+                      "Y": 0.377
+                    },
+                    "LeftMargin": 501.39,
+                    "RightMargin": -14.39,
+                    "TopMargin": 33.7968,
+                    "BottomMargin": 4.2032,
+                    "Tag": 5331,
+                    "ActionTag": -565930753,
+                    "Size": {
+                      "X": 163.0,
+                      "Y": 23.0
+                    },
+                    "Name": "title_4_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -990326267,
+                "Size": {
+                  "X": 650.0,
+                  "Y": 61.0
+                },
+                "Name": "pn_title",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 707.0,
+                "TopMargin": 497.0,
+                "Tag": 5332,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_s.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 349.41,
+                      "Y": 39.3
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 305.41,
+                    "RightMargin": -393.41,
+                    "TopMargin": -57.8,
+                    "BottomMargin": 20.8,
+                    "Tag": 5333,
+                    "ActionTag": 1898412232,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 37.0
+                    },
+                    "Name": "Sprite_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_backall.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_backall_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_backall.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 8,
+                    "Scale9Height": 15,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 223.2353,
+                      "Y": 39.3
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 204.2353,
+                    "RightMargin": -242.2353,
+                    "TopMargin": -57.8,
+                    "BottomMargin": 20.8,
+                    "Tag": 5334,
+                    "ActionTag": 353935902,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 37.0
+                    },
+                    "Name": "btn_back_all",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_back.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_back_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_back.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 8,
+                    "Scale9Height": 15,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 273.51,
+                      "Y": 39.3
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 254.51,
+                    "RightMargin": -292.51,
+                    "TopMargin": -57.8,
+                    "BottomMargin": 20.8,
+                    "Tag": 5335,
+                    "ActionTag": -1529710159,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 37.0
+                    },
+                    "Name": "btn_back",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_backall.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_backall_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_backall.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 8,
+                    "Scale9Height": 15,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 476.52,
+                      "Y": 39.3
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 457.52,
+                    "RightMargin": -495.52,
+                    "TopMargin": -57.8,
+                    "BottomMargin": 20.8,
+                    "Tag": 5336,
+                    "ActionTag": 1229664441,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 37.0
+                    },
+                    "Name": "btn_next_all",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_back.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_back_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/number_back.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 8,
+                    "Scale9Height": 15,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 426.24,
+                      "Y": 39.3
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "RotationSkewY": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 407.24,
+                    "RightMargin": -445.24,
+                    "TopMargin": -57.8,
+                    "BottomMargin": 20.8,
+                    "Tag": 5337,
+                    "ActionTag": -134821578,
+                    "Size": {
+                      "X": 38.0,
+                      "Y": 37.0
+                    },
+                    "Name": "btn_next",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 16,
+                    "LabelText": "....",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.2859,
+                      "Y": 39.3
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 307.2859,
+                    "RightMargin": -393.2859,
+                    "TopMargin": -52.3,
+                    "BottomMargin": 26.3,
+                    "Tag": 5338,
+                    "ActionTag": -1730332531,
+                    "Size": {
+                      "X": 86.0,
+                      "Y": 26.0
+                    },
+                    "Name": "lb_page",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1010520980,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_page",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 728014311,
+            "Size": {
+              "X": 707.0,
+              "Y": 497.0
+            },
+            "Name": "PanelLSGD",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Medium.ttf",
+        "Font/Roboto-Regular.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/lopmo.png",
+        "Minigame/ImageChung/number_back.png",
+        "Minigame/ImageChung/number_back_s.png",
+        "Minigame/ImageChung/number_backall.png",
+        "Minigame/ImageChung/number_backall_s.png",
+        "Minigame/ImageChung/number_s.png",
+        "Minigame/ImageChung/Title.png",
+        "Minigame/ResVQMM/vachdung.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

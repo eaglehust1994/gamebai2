@@ -1,0 +1,11 @@
+XiZach = {};
+XiZach.MAX_CARD = 5;
+XiZach.MAX_PLAYER = 6;
+XiZach.res = {};
+XiZach.res.bgClock = "res/common/avatar/Vong_Ngoai.png";
+XiZach.res.effectClock = "res/common/avatar/Vong_Vang.png";
+XiZach.res.laBaiChe = res_CardGame_LaBai + "/labai_52.png";
+XiZach.res.cardNamePath = "res/CardGame/BoBaiPoker/labai_";
+XiZach.res.circleEffectPng = "res/CardGame/CommonResource/BanChoi/effectTimePoker.png";
+XiZach.res.afterPng = "res/common/afterTime.png";
+XiZach.res.startNumPngPath = "res/common/boSo/start_"

@@ -1,0 +1,2817 @@
+{
+  "ID": "04c94767-365a-4871-8180-d2fd40469327",
+  "Version": "2.3.4",
+  "Name": "ChuyenKhoan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1703,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1704,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/bgtab_mail.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8555,
+                  "Y": 0.8708
+                },
+                "LeftMargin": 92.5,
+                "RightMargin": 92.5,
+                "TopMargin": 46.5,
+                "BottomMargin": 46.5,
+                "Tag": 1705,
+                "ActionTag": -1752364211,
+                "Size": {
+                  "X": 1095.0,
+                  "Y": 627.0
+                },
+                "Name": "bg_tab_menu",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnBack_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnBack_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnBack.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 135.0006,
+                  "Y": 632.0005
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1055,
+                  "Y": 0.8778
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 102.0006,
+                "RightMargin": 1111.9994,
+                "TopMargin": 54.9995,
+                "BottomMargin": 599.0005,
+                "Tag": 1706,
+                "ActionTag": 173923528,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_back_ck",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 648.18
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9003
+                },
+                "PreSize": {
+                  "X": 0.3734,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 401.0,
+                "RightMargin": 401.0,
+                "TopMargin": 40.82,
+                "BottomMargin": 617.18,
+                "Tag": 1707,
+                "ActionTag": -45463718,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "bg_title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "CHUYỂN KHOẢN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 183,
+                  "G": 132,
+                  "B": 68
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 649.09
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9015
+                },
+                "PreSize": {
+                  "X": 0.2234,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 497.0,
+                "RightMargin": 497.0,
+                "TopMargin": 48.41,
+                "BottomMargin": 626.59,
+                "Tag": 1708,
+                "ActionTag": -730682028,
+                "Size": {
+                  "X": 290,
+                  "Y": 48
+                },
+                "Name": "txtInbox",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "ButtonText": "ĐẠI LÝ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 335,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 854.3137,
+                  "Y": 96.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6674,
+                  "Y": 0.1343
+                },
+                "PreSize": {
+                  "X": 0.2852,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 671.8137,
+                "RightMargin": 243.1863,
+                "TopMargin": 594.34,
+                "BottomMargin": 67.66,
+                "Tag": 1711,
+                "ActionTag": -1421218956,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 58.0
+                },
+                "Name": "btn_daily",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 34,
+                "ButtonText": "TIẾP TỤC",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 335,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.988,
+                  "Y": 96.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.1343
+                },
+                "PreSize": {
+                  "X": 0.2852,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 168.488,
+                "RightMargin": 746.512,
+                "TopMargin": 594.34,
+                "BottomMargin": 67.66,
+                "Tag": 1712,
+                "ActionTag": -1143957959,
+                "Size": {
+                  "X": 365.0,
+                  "Y": 58.0
+                },
+                "Name": "btn_tiep_tuc",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.9934,
+                  "Y": 542.9832
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.7541
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 172.4934,
+                "RightMargin": 750.5066,
+                "TopMargin": 152.0168,
+                "BottomMargin": 517.9832,
+                "Tag": 1713,
+                "ActionTag": 2028172708,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 50.0
+                },
+                "Name": "bg",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.9936,
+                  "Y": 422.6367
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.587
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 172.4936,
+                "RightMargin": 750.5064,
+                "TopMargin": 272.3633,
+                "BottomMargin": 397.6367,
+                "Tag": 1714,
+                "ActionTag": 540949300,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 50.0
+                },
+                "Name": "bg2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "CHUYỂN KHOẢN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.9944,
+                  "Y": 592.7061
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.8232
+                },
+                "PreSize": {
+                  "X": 0.1758,
+                  "Y": 0.0486
+                },
+                "LeftMargin": 238.4944,
+                "RightMargin": 816.5056,
+                "TopMargin": 109.7939,
+                "BottomMargin": 575.2061,
+                "Tag": 1715,
+                "ActionTag": 59184949,
+                "Size": {
+                  "X": 225.0,
+                  "Y": 35.0
+                },
+                "Name": "txt",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1145.01,
+                  "Y": 632.01
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8945,
+                  "Y": 0.8778
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 1112.01,
+                "RightMargin": 101.99,
+                "TopMargin": 54.99,
+                "BottomMargin": 599.01,
+                "Tag": 1716,
+                "ActionTag": -536035890,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_chuyenkhoan",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.994,
+                  "Y": 361.6374
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.5023
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 172.494,
+                "RightMargin": 750.506,
+                "TopMargin": 333.3626,
+                "BottomMargin": 336.6374,
+                "Tag": 1717,
+                "ActionTag": 1361989375,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 50.0
+                },
+                "Name": "bg2_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "Số dư KD:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 183.5701,
+                  "Y": 541.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0106,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1434,
+                  "Y": 0.7516
+                },
+                "PreSize": {
+                  "X": 0.0758,
+                  "Y": 0.0361
+                },
+                "LeftMargin": 183.5701,
+                "RightMargin": 999.4299,
+                "TopMargin": 165.84,
+                "BottomMargin": 528.16,
+                "Tag": 1719,
+                "ActionTag": 238018247,
+                "Size": {
+                  "X": 97.0,
+                  "Y": 26.0
+                },
+                "Name": "lb",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 23,
+                "LabelText": "0",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 286.58,
+                  "Y": 541.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 194,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2239,
+                  "Y": 0.7516
+                },
+                "PreSize": {
+                  "X": 0.1477,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 286.58,
+                "RightMargin": 804.42,
+                "TopMargin": 163.84,
+                "BottomMargin": 526.16,
+                "Tag": 1720,
+                "ActionTag": 1476416408,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 30.0
+                },
+                "Name": "lb_so_du_vin",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.9878,
+                  "Y": 482.9771
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.6708
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 172.4878,
+                "RightMargin": 750.5122,
+                "TopMargin": 212.0229,
+                "BottomMargin": 457.9771,
+                "Tag": 1721,
+                "ActionTag": -522758507,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 50.0
+                },
+                "Name": "bg_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "                                             ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 295.5755,
+                  "Y": 455.8325
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 194,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2309,
+                  "Y": 0.6331
+                },
+                "PreSize": {
+                  "X": 0.1719,
+                  "Y": 0.0361
+                },
+                "LeftMargin": 295.5755,
+                "RightMargin": 764.4245,
+                "TopMargin": 251.1675,
+                "BottomMargin": 442.8325,
+                "Tag": 1722,
+                "ActionTag": 1057584287,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 26.0
+                },
+                "Name": "lb_so_du_vin_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Nickname:",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 16,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.0702,
+                  "Y": 482.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2735,
+                  "Y": 0.6695
+                },
+                "PreSize": {
+                  "X": 0.2602,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 183.5702,
+                "RightMargin": 763.4298,
+                "TopMargin": 217.95,
+                "BottomMargin": 462.05,
+                "Tag": 1723,
+                "ActionTag": 1047854152,
+                "Size": {
+                  "X": 333.0,
+                  "Y": 40.0
+                },
+                "Name": "tf_nickname",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Nhập lại Nickname:",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 16,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.0692,
+                  "Y": 423.04
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2735,
+                  "Y": 0.5876
+                },
+                "PreSize": {
+                  "X": 0.2602,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 183.5692,
+                "RightMargin": 763.4308,
+                "TopMargin": 276.96,
+                "BottomMargin": 403.04,
+                "Tag": 1724,
+                "ActionTag": -2136545360,
+                "Size": {
+                  "X": 333.0,
+                  "Y": 40.0
+                },
+                "Name": "tf_nickname_again",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Nhập số Vin cần chuyển",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 15,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.0701,
+                  "Y": 362.0366
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2735,
+                  "Y": 0.5028
+                },
+                "PreSize": {
+                  "X": 0.2602,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 183.5701,
+                "RightMargin": 763.4299,
+                "TopMargin": 337.9634,
+                "BottomMargin": 342.0366,
+                "Tag": 1725,
+                "ActionTag": -1322758535,
+                "Size": {
+                  "X": 333.0,
+                  "Y": 40.0
+                },
+                "Name": "tf_so_vin_chuyen",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "Phí giao dịch:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 183.5701,
+                  "Y": 293.5726
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1434,
+                  "Y": 0.4077
+                },
+                "PreSize": {
+                  "X": 0.0945,
+                  "Y": 0.0319
+                },
+                "LeftMargin": 183.5701,
+                "RightMargin": 975.4299,
+                "TopMargin": 414.9274,
+                "BottomMargin": 282.0726,
+                "Tag": 1726,
+                "ActionTag": -829461176,
+                "Size": {
+                  "X": 121.0,
+                  "Y": 23.0
+                },
+                "Name": "lb_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "2%",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 310.5693,
+                  "Y": 293.5682
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 206,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2426,
+                  "Y": 0.4077
+                },
+                "PreSize": {
+                  "X": 0.0414,
+                  "Y": 0.0361
+                },
+                "LeftMargin": 310.5693,
+                "RightMargin": 916.4307,
+                "TopMargin": 413.4318,
+                "BottomMargin": 280.5682,
+                "Tag": 1727,
+                "ActionTag": 1164046140,
+                "Size": {
+                  "X": 53.0,
+                  "Y": 26.0
+                },
+                "Name": "lb_phigiaodich",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.9933,
+                  "Y": 240.9829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.3347
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 172.4933,
+                "RightMargin": 750.5067,
+                "TopMargin": 454.0171,
+                "BottomMargin": 215.9829,
+                "Tag": 1728,
+                "ActionTag": 1528052019,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 50.0
+                },
+                "Name": "bg_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "Số Vin nhận :",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 183.5701,
+                  "Y": 239.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 41,
+                  "G": 41,
+                  "B": 41
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1434,
+                  "Y": 0.3322
+                },
+                "PreSize": {
+                  "X": 0.1031,
+                  "Y": 0.0361
+                },
+                "LeftMargin": 183.5701,
+                "RightMargin": 964.4299,
+                "TopMargin": 467.84,
+                "BottomMargin": 226.16,
+                "Tag": 1729,
+                "ActionTag": 1674989143,
+                "Size": {
+                  "X": 132.0,
+                  "Y": 26.0
+                },
+                "Name": "lb_vin",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 15,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 426.58,
+                  "Y": 239.84
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3333,
+                  "Y": 0.3331
+                },
+                "PreSize": {
+                  "X": 0.1531,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 328.58,
+                "RightMargin": 755.42,
+                "TopMargin": 460.16,
+                "BottomMargin": 219.84,
+                "Tag": 401,
+                "ActionTag": -835457275,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 40.0
+                },
+                "Name": "lb_vin_nhan_duoc",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Shopping/bg_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.99,
+                  "Y": 180.635
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2742,
+                  "Y": 0.2509
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 172.49,
+                "RightMargin": 750.51,
+                "TopMargin": 514.365,
+                "BottomMargin": 155.635,
+                "Tag": 1731,
+                "ActionTag": 1083335361,
+                "Size": {
+                  "X": 357.0,
+                  "Y": 50.0
+                },
+                "Name": "bg2_0_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "FontSize": 21,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Lý do chuyển khoản",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 100,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 350.071,
+                  "Y": 180.03
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2735,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.2602,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 183.571,
+                "RightMargin": 763.429,
+                "TopMargin": 519.97,
+                "BottomMargin": 160.03,
+                "Tag": 1732,
+                "ActionTag": -870721947,
+                "Size": {
+                  "X": 333.0,
+                  "Y": 40.0
+                },
+                "Name": "tf_ly_do",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 1135.5,
+                  "Y": 604.0006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8871,
+                  "Y": 0.8389
+                },
+                "PreSize": {
+                  "X": 0.4492,
+                  "Y": 0.6278
+                },
+                "LeftMargin": 560.5,
+                "RightMargin": 144.5,
+                "TopMargin": 115.9994,
+                "BottomMargin": 152.0006,
+                "Tag": 1733,
+                "ActionTag": -480233786,
+                "Size": {
+                  "X": 575.0,
+                  "Y": 452.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 28,
+                  "G": 69,
+                  "B": 121
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 575.5,
+                  "Y": 570.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4496,
+                  "Y": 0.7917
+                },
+                "PreSize": {
+                  "X": 0.425,
+                  "Y": 0.6028
+                },
+                "LeftMargin": 575.5,
+                "RightMargin": 160.5,
+                "TopMargin": 150.0,
+                "BottomMargin": 136.0,
+                "Tag": 1739,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/ChuyenKhoan/bg_daily.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 271.9995,
+                      "Y": 449.9996
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.0369
+                    },
+                    "PreSize": {
+                      "X": 1.1434,
+                      "Y": 0.2028
+                    },
+                    "LeftMargin": -39.0005,
+                    "RightMargin": -38.9995,
+                    "TopMargin": -59.9996,
+                    "BottomMargin": 405.9996,
+                    "Tag": 1740,
+                    "ActionTag": 274492616,
+                    "Size": {
+                      "X": 622.0,
+                      "Y": 88.0
+                    },
+                    "Name": "bg",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 17,
+                    "LabelText": "_Giá trị giao dịch tối thiểu: \n\n_Chi phí giao dịch là :  2% giá trị chuyển khoản (làm tròn lên).\n\n_Không giới hạn giá trị giao dịch tối đa và số lần giao dịch trong ngày",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.9799,
+                      "Y": 300.9177
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0055,
+                      "Y": 0.7533
+                    },
+                    "PreSize": {
+                      "X": 0.9724,
+                      "Y": 0.2304
+                    },
+                    "LeftMargin": 2.9799,
+                    "RightMargin": 12.0201,
+                    "TopMargin": 57.0823,
+                    "BottomMargin": 276.9177,
+                    "Tag": 1741,
+                    "ActionTag": -483776294,
+                    "Size": {
+                      "X": 529.0,
+                      "Y": 150.0
+                    },
+                    "Name": "lb_quydinh_chuyenkhoan",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "QUY ĐỊNH",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 271.9997,
+                      "Y": 446.8853
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 1.0297
+                    },
+                    "PreSize": {
+                      "X": 0.2077,
+                      "Y": 0.0645
+                    },
+                    "LeftMargin": 215.4997,
+                    "RightMargin": 215.5003,
+                    "TopMargin": -26.8853,
+                    "BottomMargin": 432.8853,
+                    "Tag": 1742,
+                    "ActionTag": 655325454,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 28.0
+                    },
+                    "Name": "lb_notice_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "Quy định chuyển khoản:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 8.0696,
+                      "Y": 396.5728
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0148,
+                      "Y": 0.9138
+                    },
+                    "PreSize": {
+                      "X": 0.4283,
+                      "Y": 0.0599
+                    },
+                    "LeftMargin": 8.0696,
+                    "RightMargin": 302.9304,
+                    "TopMargin": 24.4272,
+                    "BottomMargin": 383.5728,
+                    "Tag": 1743,
+                    "ActionTag": 425646686,
+                    "Size": {
+                      "X": 233.0,
+                      "Y": 26.0
+                    },
+                    "Name": "lb_notice_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 17,
+                    "LabelText": "_ Nickname nhận là tên nhận vật (Tên hiển thị trong game). Không\nphải là tên tài khoản đăng nhập.\n\n_ Các giao dịch chuyển nhầm tên tài khoản được tính là giao dịch hợp \nlệ và không được hoàn trả. Bạn vui lòng kiểm tra lại tên Nickname \nnhận trước khi thực hiện giao dịch.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 2.9799,
+                      "Y": 123.9858
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0055,
+                      "Y": 0.2857
+                    },
+                    "PreSize": {
+                      "X": 0.9779,
+                      "Y": 0.2765
+                    },
+                    "LeftMargin": 2.9799,
+                    "RightMargin": 9.0201,
+                    "TopMargin": 250.0142,
+                    "BottomMargin": 63.9858,
+                    "Tag": 1744,
+                    "ActionTag": 2042135376,
+                    "Size": {
+                      "X": 532.0,
+                      "Y": 120.0
+                    },
+                    "Name": "lb_notice_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "CHÚ Ý",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 8.0696,
+                      "Y": 206.4422
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0148,
+                      "Y": 0.4757
+                    },
+                    "PreSize": {
+                      "X": 0.1232,
+                      "Y": 0.0599
+                    },
+                    "LeftMargin": 8.0696,
+                    "RightMargin": 468.9304,
+                    "TopMargin": 214.5578,
+                    "BottomMargin": 193.4422,
+                    "Tag": 1745,
+                    "ActionTag": 1243311979,
+                    "Size": {
+                      "X": 67.0,
+                      "Y": 26.0
+                    },
+                    "Name": "lb_notice_0_0_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 17,
+                    "LabelText": "10.000 VIN",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 210.2206,
+                      "Y": 366.9091
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 212,
+                      "G": 0,
+                      "B": 248
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3864,
+                      "Y": 0.8454
+                    },
+                    "PreSize": {
+                      "X": 0.2371,
+                      "Y": 0.0461
+                    },
+                    "LeftMargin": 210.2206,
+                    "RightMargin": 204.7794,
+                    "TopMargin": 57.0909,
+                    "BottomMargin": 356.9091,
+                    "Tag": 1746,
+                    "ActionTag": 1785617435,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 20.0
+                    },
+                    "Name": "lb_tranfer_min",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 95065305,
+                "Size": {
+                  "X": 544.0,
+                  "Y": 434.0
+                },
+                "Name": "pn_quy_dinh",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "(Đại lý)",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 527.3976,
+                  "Y": 481.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 194,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.412,
+                  "Y": 0.6681
+                },
+                "PreSize": {
+                  "X": 0.0531,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 459.3976,
+                "RightMargin": 752.6024,
+                "TopMargin": 226.45,
+                "BottomMargin": 468.55,
+                "Tag": 1748,
+                "ActionTag": -1931341864,
+                "Size": {
+                  "X": 68.0,
+                  "Y": 25.0
+                },
+                "Name": "lb_check_daily",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 23,
+                "LabelText": "VIN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 484.2819,
+                  "Y": 541.16
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 194,
+                  "G": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3783,
+                  "Y": 0.7516
+                },
+                "PreSize": {
+                  "X": 0.0313,
+                  "Y": 0.0375
+                },
+                "LeftMargin": 484.2819,
+                "RightMargin": 755.7181,
+                "TopMargin": 165.34,
+                "BottomMargin": 527.66,
+                "Tag": 1749,
+                "ActionTag": 1320002814,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 27.0
+                },
+                "Name": "lb_so_du_vin_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 3,
+                "Scale9Height": 11,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.87,
+                  "Y": 481.05
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1147,
+                  "Y": 0.6681
+                },
+                "PreSize": {
+                  "X": 0.0258,
+                  "Y": 0.0458
+                },
+                "LeftMargin": 130.37,
+                "RightMargin": 1116.63,
+                "TopMargin": 222.45,
+                "BottomMargin": 464.55,
+                "Tag": 1750,
+                "ActionTag": 1583709489,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 33.0
+                },
+                "Name": "btn_clear_nickname_ck",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 3,
+                "Scale9Height": 11,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.87,
+                  "Y": 419.04
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1147,
+                  "Y": 0.582
+                },
+                "PreSize": {
+                  "X": 0.0258,
+                  "Y": 0.0458
+                },
+                "LeftMargin": 130.37,
+                "RightMargin": 1116.63,
+                "TopMargin": 284.46,
+                "BottomMargin": 402.54,
+                "Tag": 1751,
+                "ActionTag": 532819816,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 33.0
+                },
+                "Name": "btn_clear_nickname_again_ck",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/BaoMat/closetf.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 3,
+                "Scale9Height": 11,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 146.87,
+                  "Y": 179.03
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1147,
+                  "Y": 0.2487
+                },
+                "PreSize": {
+                  "X": 0.0258,
+                  "Y": 0.0458
+                },
+                "LeftMargin": 130.37,
+                "RightMargin": 1116.63,
+                "TopMargin": 524.47,
+                "BottomMargin": 162.53,
+                "Tag": 1752,
+                "ActionTag": -1956988856,
+                "Size": {
+                  "X": 33.0,
+                  "Y": 33.0
+                },
+                "Name": "btn_clear_lydo",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -552044575,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_chuyen_khoan",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 391,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/bgtab_mail.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8555,
+                  "Y": 0.8708
+                },
+                "LeftMargin": 92.5,
+                "RightMargin": 92.5,
+                "TopMargin": 46.5,
+                "BottomMargin": 46.5,
+                "Tag": 392,
+                "ActionTag": 958731484,
+                "Size": {
+                  "X": 1095.0,
+                  "Y": 627.0
+                },
+                "Name": "bg_tab_menu_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 28,
+                  "G": 69,
+                  "B": 121
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 626.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8694
+                },
+                "PreSize": {
+                  "X": 0.7813,
+                  "Y": 0.75
+                },
+                "LeftMargin": 140.0,
+                "RightMargin": 140.0,
+                "TopMargin": 94.0,
+                "BottomMargin": 86.0,
+                "Tag": 393,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/ChuyenKhoan/bg_daily.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 81,
+                    "Scale9OriginY": 29,
+                    "Scale9Width": 473,
+                    "Scale9Height": 30,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 499.9886,
+                      "Y": 494.0021
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.9148
+                    },
+                    "PreSize": {
+                      "X": 1.055,
+                      "Y": 0.163
+                    },
+                    "LeftMargin": -27.5114,
+                    "RightMargin": -27.4885,
+                    "TopMargin": 1.9979,
+                    "BottomMargin": 450.0021,
+                    "Tag": 394,
+                    "ActionTag": 217170856,
+                    "Size": {
+                      "X": 1055.0,
+                      "Y": 88.0
+                    },
+                    "Name": "bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "THÔNG TIN ĐẠI LÝ",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Bold.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 509.9901,
+                      "Y": 522.8882
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.9683
+                    },
+                    "PreSize": {
+                      "X": 0.207,
+                      "Y": 0.0519
+                    },
+                    "LeftMargin": 406.4901,
+                    "RightMargin": 386.5099,
+                    "TopMargin": 3.1118,
+                    "BottomMargin": 508.8882,
+                    "Tag": 395,
+                    "ActionTag": -35575206,
+                    "Size": {
+                      "X": 207.0,
+                      "Y": 28.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "lb_notice_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ResourceMenuTab/ChuyenKhoan/table_daily.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 498.9894,
+                      "Y": 511.0023
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.499,
+                      "Y": 0.9463
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1259
+                    },
+                    "LeftMargin": -1.0106,
+                    "RightMargin": 1.0106,
+                    "TopMargin": -5.0023,
+                    "BottomMargin": 477.0023,
+                    "Tag": 396,
+                    "ActionTag": -1620226015,
+                    "Size": {
+                      "X": 1000.0,
+                      "Y": 68.0
+                    },
+                    "Name": "bg_0",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "ScrollDirectionType": 0,
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 498.9894,
+                      "Y": 477.1204
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.499,
+                      "Y": 0.8836
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.887
+                    },
+                    "LeftMargin": -1.0106,
+                    "RightMargin": 1.0106,
+                    "TopMargin": 62.8796,
+                    "BottomMargin": -1.8796,
+                    "Tag": 397,
+                    "ActionTag": -1470313592,
+                    "Size": {
+                      "X": 1000.0,
+                      "Y": 479.0
+                    },
+                    "Name": "lv_daily",
+                    "ctype": "ListViewObjectData"
+                  }
+                ],
+                "ActionTag": -1399252819,
+                "Size": {
+                  "X": 1000.0,
+                  "Y": 540.0
+                },
+                "Name": "pn_dai_ly",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9988,
+                  "Y": 648.1769
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9002
+                },
+                "PreSize": {
+                  "X": 0.3734,
+                  "Y": 0.0861
+                },
+                "LeftMargin": 400.9988,
+                "RightMargin": 401.0012,
+                "TopMargin": 40.8231,
+                "BottomMargin": 617.1769,
+                "Tag": 398,
+                "ActionTag": 299906989,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "bg_title_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 38,
+                "LabelText": "ĐẠI LÝ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 2,
+                "OutlineColor": {
+                  "R": 183,
+                  "G": 132,
+                  "B": 68
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9973,
+                  "Y": 649.0864
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9015
+                },
+                "PreSize": {
+                  "X": 0.0922,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 580.9973,
+                "RightMargin": 581.0027,
+                "TopMargin": 48.4136,
+                "BottomMargin": 626.5864,
+                "Tag": 399,
+                "ActionTag": -1653224678,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 50.0
+                },
+                "Name": "txtInbox_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/btnClose.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 36,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1147.6116,
+                  "Y": 634.4736
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8966,
+                  "Y": 0.8812
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0917
+                },
+                "LeftMargin": 1114.6116,
+                "RightMargin": 99.3884,
+                "TopMargin": 52.5264,
+                "BottomMargin": 601.4736,
+                "Tag": 400,
+                "ActionTag": 1730725093,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 66.0
+                },
+                "Name": "btn_close_daily",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 348175703,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_dai_ly",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Bold.ttf",
+        "Font/Roboto-Regular.ttf",
+        "ResourceMenuTab/BaoMat/closetf.png",
+        "ResourceMenuTab/ChuyenKhoan/bg_daily.png",
+        "ResourceMenuTab/ChuyenKhoan/table_daily.png",
+        "ResourceMenuTab/Mail/bgtab_mail.png",
+        "ResourceMenuTab/Mail/btnBack.png",
+        "ResourceMenuTab/Mail/btnBack_s.png",
+        "ResourceMenuTab/Mail/btnClose.png",
+        "ResourceMenuTab/Mail/btnClose_s.png",
+        "ResourceMenuTab/Mail/button.png",
+        "ResourceMenuTab/Mail/button_s.png",
+        "ResourceMenuTab/Mail/lopmo.png",
+        "ResourceMenuTab/Mail/Title.png",
+        "ResourceMenuTab/Shopping/bg_2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

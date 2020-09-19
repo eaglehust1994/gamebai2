@@ -1,0 +1,2702 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.4",
+  "Name": "VongQuayMM",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 325,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.1543,
+                  "Y": 360.0868
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 0.5001
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": 0.1543,
+                "RightMargin": -0.1543,
+                "TopMargin": -0.0868,
+                "BottomMargin": 0.0868,
+                "Tag": 28,
+                "ActionTag": -488225207,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "pn_lopmo",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/bg_vong_vin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 397.6892,
+                  "Y": 337.4909
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3107,
+                  "Y": 0.4687
+                },
+                "PreSize": {
+                  "X": 0.3297,
+                  "Y": 0.6639
+                },
+                "LeftMargin": 186.6892,
+                "RightMargin": 671.3108,
+                "TopMargin": 143.5091,
+                "BottomMargin": 98.4909,
+                "Tag": 30,
+                "ActionTag": 582358930,
+                "Size": {
+                  "X": 422.0,
+                  "Y": 478.0
+                },
+                "Name": "bg_vongvin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/vong_vin.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 397.6892,
+                  "Y": 316.4904
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3107,
+                  "Y": 0.4396
+                },
+                "PreSize": {
+                  "X": 0.2984,
+                  "Y": 0.5319
+                },
+                "LeftMargin": 206.6892,
+                "RightMargin": 691.3108,
+                "TopMargin": 212.0096,
+                "BottomMargin": 124.9904,
+                "Tag": 29,
+                "ActionTag": -588145794,
+                "Size": {
+                  "X": 382.0,
+                  "Y": 383.0
+                },
+                "Name": "vong_vin",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/muiten.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 59,
+                "Scale9OriginY": 22,
+                "Scale9Width": 63,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 396.8364,
+                  "Y": 501.1008
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.31,
+                  "Y": 0.696
+                },
+                "PreSize": {
+                  "X": 0.1016,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 331.8364,
+                "RightMargin": 818.1636,
+                "TopMargin": 193.8992,
+                "BottomMargin": 476.1008,
+                "Tag": 32,
+                "ActionTag": 824352629,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 50.0
+                },
+                "Name": "muiten_small",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/BackVQMM.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.7229,
+                  "Y": 345.0231
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6334,
+                  "Y": 0.4792
+                },
+                "PreSize": {
+                  "X": 0.4328,
+                  "Y": 0.8528
+                },
+                "LeftMargin": 533.7229,
+                "RightMargin": 192.2771,
+                "TopMargin": 67.9769,
+                "BottomMargin": 38.0231,
+                "Tag": 57,
+                "ActionTag": -1555571301,
+                "Size": {
+                  "X": 554.0,
+                  "Y": 614.0
+                },
+                "Name": "BackVQMM",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.7507,
+                  "Y": 315.9866
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6334,
+                  "Y": 0.4389
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 710.7507,
+                "RightMargin": 369.2493,
+                "TopMargin": 304.0134,
+                "BottomMargin": 215.9866,
+                "Tag": 108,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/Vongngoai.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 2.535,
+                      "Y": 2.535
+                    },
+                    "LeftMargin": -153.5,
+                    "RightMargin": -153.5,
+                    "TopMargin": -153.5,
+                    "BottomMargin": -153.5,
+                    "Tag": 115,
+                    "ActionTag": -1099704992,
+                    "Size": {
+                      "X": 507.0,
+                      "Y": 507.0
+                    },
+                    "Name": "spnoidung",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -820660782,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "Vongngoai",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/Vongtrong.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.7247,
+                  "Y": 316.0009
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6334,
+                  "Y": 0.4389
+                },
+                "PreSize": {
+                  "X": 0.2547,
+                  "Y": 0.4514
+                },
+                "LeftMargin": 647.7247,
+                "RightMargin": 306.2753,
+                "TopMargin": 241.4991,
+                "BottomMargin": 153.5009,
+                "Tag": 59,
+                "ActionTag": -555404025,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 325.0
+                },
+                "Name": "Vongtrong",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/muiten.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 811.0286,
+                  "Y": 554.0995
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6336,
+                  "Y": 0.7696
+                },
+                "PreSize": {
+                  "X": 0.1414,
+                  "Y": 0.0958
+                },
+                "LeftMargin": 720.5286,
+                "RightMargin": 378.4714,
+                "TopMargin": 131.4005,
+                "BottomMargin": 519.5995,
+                "Tag": 417,
+                "ActionTag": 275393328,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 69.0
+                },
+                "Name": "muiten",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btnQuay_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btnQuay_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btnQuay.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 189,
+                "Scale9Height": 197,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 810.7144,
+                  "Y": 314.8546
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6334,
+                  "Y": 0.4373
+                },
+                "PreSize": {
+                  "X": 0.1312,
+                  "Y": 0.2333
+                },
+                "LeftMargin": 726.7144,
+                "RightMargin": 385.2856,
+                "TopMargin": 321.1454,
+                "BottomMargin": 230.8546,
+                "Tag": 60,
+                "ActionTag": 1210848153,
+                "Size": {
+                  "X": 168.0,
+                  "Y": 168.0
+                },
+                "Name": "btnStart",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btn_info.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btn_info.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btn_info.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 38,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 565.0322,
+                  "Y": 495.77
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4414,
+                  "Y": 0.6886
+                },
+                "PreSize": {
+                  "X": 0.0406,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 539.0322,
+                "RightMargin": 688.9678,
+                "TopMargin": 198.23,
+                "BottomMargin": 469.77,
+                "Tag": 61,
+                "ActionTag": 647434903,
+                "Size": {
+                  "X": 52.0,
+                  "Y": 52.0
+                },
+                "Name": "btninfo",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/btn_info.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/Hoi.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/Hoi.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 44,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 228.3701,
+                  "Y": 495.77
+                },
+                "Scale": {
+                  "ScaleX": 0.92,
+                  "ScaleY": 0.92
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1784,
+                  "Y": 0.6886
+                },
+                "PreSize": {
+                  "X": 0.0453,
+                  "Y": 0.0806
+                },
+                "LeftMargin": 199.3701,
+                "RightMargin": 1022.6299,
+                "TopMargin": 195.23,
+                "BottomMargin": 466.77,
+                "Tag": 62,
+                "ActionTag": 1079191644,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 58.0
+                },
+                "Name": "btnguild",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_closegame_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_closegame_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_closegame.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 7,
+                "Scale9OriginY": 7,
+                "Scale9Width": 42,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1066.4602,
+                  "Y": 495.7761
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8332,
+                  "Y": 0.6886
+                },
+                "PreSize": {
+                  "X": 0.0437,
+                  "Y": 0.0778
+                },
+                "LeftMargin": 1038.4602,
+                "RightMargin": 185.5398,
+                "TopMargin": 196.2239,
+                "BottomMargin": 467.7761,
+                "Tag": 62,
+                "ActionTag": 97757548,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 56.0
+                },
+                "Name": "btnclose",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/bg_number_luot.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 397.69,
+                  "Y": 316.49
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3107,
+                  "Y": 0.4396
+                },
+                "PreSize": {
+                  "X": 0.1492,
+                  "Y": 0.2653
+                },
+                "LeftMargin": 302.19,
+                "RightMargin": 786.81,
+                "TopMargin": 308.01,
+                "BottomMargin": 220.99,
+                "Tag": 33,
+                "ActionTag": -1660059584,
+                "Size": {
+                  "X": 191.0,
+                  "Y": 191.0
+                },
+                "Name": "bg_number",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 80,
+                "LabelText": "2",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 398.69,
+                  "Y": 315.49
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 206,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3115,
+                  "Y": 0.4382
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.1431
+                },
+                "LeftMargin": 346.19,
+                "RightMargin": 828.81,
+                "TopMargin": 353.01,
+                "BottomMargin": 263.99,
+                "Tag": 116,
+                "ActionTag": 1446299960,
+                "Size": {
+                  "X": 105.0,
+                  "Y": 103.0
+                },
+                "Name": "lb_soluotquay",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ResVQMM/bg_vonquay.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 416.5296,
+                  "Y": 92.7949
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3254,
+                  "Y": 0.1289
+                },
+                "PreSize": {
+                  "X": 0.3742,
+                  "Y": 0.2083
+                },
+                "LeftMargin": 177.0296,
+                "RightMargin": 623.9704,
+                "TopMargin": 552.2051,
+                "BottomMargin": 17.7949,
+                "Tag": 34,
+                "ActionTag": -774903410,
+                "Size": {
+                  "X": 479.0,
+                  "Y": 150.0
+                },
+                "Name": "trangtri",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "RightMargin": 1280.0,
+                "TopMargin": 720.0,
+                "Tag": 35,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 36,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 565.5293,
+                          "Y": 317.1136
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 547.5293,
+                        "RightMargin": -583.5293,
+                        "TopMargin": -334.6136,
+                        "BottomMargin": 299.6136,
+                        "Tag": 37,
+                        "ActionTag": -864593308,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 688.6567,
+                          "Y": 529.6363
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 670.6567,
+                        "RightMargin": -706.6567,
+                        "TopMargin": -547.1363,
+                        "BottomMargin": 512.1363,
+                        "Tag": 38,
+                        "ActionTag": -1216725076,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 933.7259,
+                          "Y": 530.6548
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 915.7259,
+                        "RightMargin": -951.7259,
+                        "TopMargin": -548.1548,
+                        "BottomMargin": 513.1548,
+                        "Tag": 39,
+                        "ActionTag": -205046365,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_3",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1057.7159,
+                          "Y": 317.6503
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 1039.7159,
+                        "RightMargin": -1075.7159,
+                        "TopMargin": -335.1503,
+                        "BottomMargin": 300.1503,
+                        "Tag": 40,
+                        "ActionTag": 2031151299,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_4",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 934.1765,
+                          "Y": 103.2572
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 916.1765,
+                        "RightMargin": -952.1765,
+                        "TopMargin": -120.7572,
+                        "BottomMargin": 85.7572,
+                        "Tag": 41,
+                        "ActionTag": -371725484,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_5",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 687.332,
+                          "Y": 104.9001
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 669.332,
+                        "RightMargin": -705.332,
+                        "TopMargin": -122.4001,
+                        "BottomMargin": 87.4001,
+                        "Tag": 42,
+                        "ActionTag": 774623161,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_6",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 260.8281,
+                          "Y": 454.9839
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 242.8281,
+                        "RightMargin": -278.8281,
+                        "TopMargin": -472.4839,
+                        "BottomMargin": 437.4839,
+                        "Tag": 50,
+                        "ActionTag": -1369298727,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_7",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 535.2003,
+                          "Y": 454.1424
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 517.2003,
+                        "RightMargin": -553.2003,
+                        "TopMargin": -471.6424,
+                        "BottomMargin": 436.6424,
+                        "Tag": 51,
+                        "ActionTag": -269425782,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_8",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 535.1149,
+                          "Y": 179.3175
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 517.1149,
+                        "RightMargin": -553.1149,
+                        "TopMargin": -196.8175,
+                        "BottomMargin": 161.8175,
+                        "Tag": 52,
+                        "ActionTag": -1299679702,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_9",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 260.8471,
+                          "Y": 179.0911
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 242.8471,
+                        "RightMargin": -278.8471,
+                        "TopMargin": -196.5911,
+                        "BottomMargin": 161.5911,
+                        "Tag": 53,
+                        "ActionTag": 1347695075,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_10",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": 1707733963,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "pn_chan",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Tag": 43,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 599.2412,
+                          "Y": 439.4912
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 581.2412,
+                        "RightMargin": -617.2412,
+                        "TopMargin": -456.9912,
+                        "BottomMargin": 421.9912,
+                        "Tag": 44,
+                        "ActionTag": 1744496581,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1024.2855,
+                          "Y": 440.1024
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 1006.2855,
+                        "RightMargin": -1042.2855,
+                        "TopMargin": -457.6024,
+                        "BottomMargin": 422.6024,
+                        "Tag": 46,
+                        "ActionTag": 904076326,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_3",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1024.4363,
+                          "Y": 194.361
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 1006.4363,
+                        "RightMargin": -1042.4363,
+                        "TopMargin": -211.861,
+                        "BottomMargin": 176.861,
+                        "Tag": 47,
+                        "ActionTag": 65455375,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_4",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 810.2103,
+                          "Y": 70.9496
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 792.2103,
+                        "RightMargin": -828.2103,
+                        "TopMargin": -88.4496,
+                        "BottomMargin": 53.4496,
+                        "Tag": 48,
+                        "ActionTag": 1964722178,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_5",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 598.6436,
+                          "Y": 192.9013
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 580.6436,
+                        "RightMargin": -616.6436,
+                        "TopMargin": -210.4013,
+                        "BottomMargin": 175.4013,
+                        "Tag": 49,
+                        "ActionTag": 79631458,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_6",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResVQMM/light.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 203.7672,
+                          "Y": 316.4032
+                        },
+                        "Scale": {
+                          "ScaleX": 0.7,
+                          "ScaleY": 0.7
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 185.7672,
+                        "RightMargin": -221.7672,
+                        "TopMargin": -333.9032,
+                        "BottomMargin": 298.9032,
+                        "Tag": 54,
+                        "ActionTag": -95853953,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 35.0
+                        },
+                        "Name": "sp_6_0",
+                        "ctype": "SpriteObjectData"
+                      }
+                    ],
+                    "ActionTag": -886635838,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "pn_le",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 49327955,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_light",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 809.73,
+                  "Y": 322.03
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6326,
+                  "Y": 0.4473
+                },
+                "PreSize": {
+                  "X": 0.4773,
+                  "Y": 0.3472
+                },
+                "LeftMargin": 504.23,
+                "RightMargin": 164.77,
+                "TopMargin": 272.97,
+                "BottomMargin": 197.03,
+                "Tag": 68,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ResVQMM/notice.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 167,
+                    "Scale9OriginY": 86,
+                    "Scale9Width": 174,
+                    "Scale9Height": 89,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 307.24,
+                      "Y": 121.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5028,
+                      "Y": 0.484
+                    },
+                    "PreSize": {
+                      "X": 0.8314,
+                      "Y": 1.044
+                    },
+                    "LeftMargin": 53.24,
+                    "RightMargin": 49.76,
+                    "TopMargin": -1.5,
+                    "BottomMargin": -9.5,
+                    "Tag": 27,
+                    "ActionTag": 1391990721,
+                    "Size": {
+                      "X": 508.0,
+                      "Y": 261.0
+                    },
+                    "Name": "bg_notice",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/btn_closegame.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/btn_closegame_s.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Minigame/ImageChung/btn_closegame.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 5,
+                    "Scale9Width": 46,
+                    "Scale9Height": 46,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 548.4793,
+                      "Y": 210.636
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8977,
+                      "Y": 0.8425
+                    },
+                    "PreSize": {
+                      "X": 0.0917,
+                      "Y": 0.224
+                    },
+                    "LeftMargin": 520.4793,
+                    "RightMargin": 34.5207,
+                    "TopMargin": 11.364,
+                    "BottomMargin": 182.636,
+                    "CallBackType": "Click",
+                    "Tag": 65,
+                    "ActionTag": 794738911,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 56.0
+                    },
+                    "Name": "btnCloseNotice",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Medium.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 306.8041,
+                      "Y": 179.9401
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5021,
+                      "Y": 0.7198
+                    },
+                    "PreSize": {
+                      "X": 0.8036,
+                      "Y": 0.448
+                    },
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 61.3041,
+                    "RightMargin": 58.6959,
+                    "TopMargin": 70.0599,
+                    "BottomMargin": 67.9401,
+                    "Tag": 118,
+                    "ActionTag": 1082114311,
+                    "Size": {
+                      "X": 491.0,
+                      "Y": 112.0
+                    },
+                    "Name": "txtNotice",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -210699519,
+                "Size": {
+                  "X": 611.0,
+                  "Y": 250.0
+                },
+                "Name": "PanelNotice",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -80179888,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pn_vqmm",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -233,
+            "Scale9OriginY": -164,
+            "Scale9Width": 466,
+            "Scale9Height": 328,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 519.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7215
+            },
+            "PreSize": {
+              "X": 0.5523,
+              "Y": 0.5097
+            },
+            "LeftMargin": 286.5,
+            "RightMargin": 286.5,
+            "TopMargin": 200.5,
+            "BottomMargin": 152.5,
+            "Tag": 79,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Bg_AllBang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 47,
+                "Scale9Height": 201,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 354.5887,
+                  "Y": 369.7885
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5015,
+                  "Y": 1.0076
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0082
+                },
+                "LeftMargin": 1.0887,
+                "RightMargin": -1.0887,
+                "TopMargin": -2.7885,
+                "BottomMargin": -0.2115,
+                "Tag": 86,
+                "ActionTag": 950951159,
+                "Size": {
+                  "X": 707.0,
+                  "Y": 370.0
+                },
+                "Name": "bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 353.5887,
+                  "Y": 301.4871
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 0.8215
+                },
+                "PreSize": {
+                  "X": 0.9703,
+                  "Y": 0.5967
+                },
+                "LeftMargin": 10.5887,
+                "RightMargin": 10.4113,
+                "TopMargin": 65.5129,
+                "BottomMargin": 82.4871,
+                "Tag": 80,
+                "ActionTag": 361530244,
+                "Size": {
+                  "X": 686.0,
+                  "Y": 219.0
+                },
+                "Name": "nen",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 157,
+                "Scale9OriginY": 20,
+                "Scale9Width": 164,
+                "Scale9Height": 22,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 353.5895,
+                  "Y": 375.9695
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5001,
+                  "Y": 1.0244
+                },
+                "PreSize": {
+                  "X": 0.6167,
+                  "Y": 0.1689
+                },
+                "LeftMargin": 135.5895,
+                "RightMargin": 135.4105,
+                "TopMargin": -8.9695,
+                "BottomMargin": 313.9695,
+                "Tag": 81,
+                "ActionTag": -1439503885,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 62.0
+                },
+                "Name": "titile",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 32,
+                "LabelText": "HƯỚNG DẪN TÂN THỦ",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 354.59,
+                  "Y": 344.6207
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5015,
+                  "Y": 0.939
+                },
+                "PreSize": {
+                  "X": 0.4625,
+                  "Y": 0.1035
+                },
+                "LeftMargin": 191.09,
+                "RightMargin": 188.91,
+                "TopMargin": 3.3793,
+                "BottomMargin": 325.6207,
+                "Tag": 82,
+                "ActionTag": 454642318,
+                "Size": {
+                  "X": 327.0,
+                  "Y": 38.0
+                },
+                "Name": "txt_title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 672.5009,
+                  "Y": 335.6556
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9512,
+                  "Y": 0.9146
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.1553
+                },
+                "LeftMargin": 643.5009,
+                "RightMargin": 5.4991,
+                "TopMargin": 2.8444,
+                "BottomMargin": 307.1556,
+                "Tag": 83,
+                "ActionTag": 433614542,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_close_tanthu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 14.6299,
+                  "Y": -45.3835
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0207,
+                  "Y": -0.1237
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 14.6299,
+                "RightMargin": 692.3701,
+                "TopMargin": 412.3835,
+                "BottomMargin": -45.3835,
+                "Tag": 84,
+                "Children": [
+                  {
+                    "FontSize": 16,
+                    "LabelText": "Chào\n\nCảm ơn bạn đã lựa chọn Vinplay.vin.\nĐể nhận GiftCode Tân Thủ, bạn vui lòng tham gia và điền đầy đủ các thông tin theo hướng dẫn.\n\n***Lưu ý:\n     - 1 Tài khoản chỉ được nhận 1 Giftcode Tân Thủ.\n     - Tài khoản phải được kích hoạt bảo mật bằng SĐT mới sử dụng Giftcode.\n     - Cố tình sử dụng nhiều Giftcode hoặc lợi dụng kẽ hở của game để trục lợi sẽ bị khóa.",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "Font/Roboto-Regular.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 3.5868,
+                      "Y": 333.8115
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 3.5868,
+                    "RightMargin": -675.5868,
+                    "TopMargin": -333.8115,
+                    "BottomMargin": 162.8115,
+                    "Tag": 85,
+                    "ActionTag": -1961871025,
+                    "Size": {
+                      "X": 672.0,
+                      "Y": 171.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1079929829,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "pn_noidung",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "ResourceMenuTab/Mail/button.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 335,
+                "Scale9Height": 36,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 357.59,
+                  "Y": 43.1167
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5058,
+                  "Y": 0.1175
+                },
+                "PreSize": {
+                  "X": 0.512,
+                  "Y": 0.139
+                },
+                "LeftMargin": 176.59,
+                "RightMargin": 168.41,
+                "TopMargin": 298.3833,
+                "BottomMargin": 17.6167,
+                "Tag": 87,
+                "ActionTag": -18112456,
+                "Size": {
+                  "X": 362.0,
+                  "Y": 51.0
+                },
+                "Name": "btn_thamgia_tanthu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 28,
+                "LabelText": "ĐĂNG KÝ NHẬN GIFTCODE",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 354.59,
+                  "Y": 46.5676
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5015,
+                  "Y": 0.1269
+                },
+                "PreSize": {
+                  "X": 0.4866,
+                  "Y": 0.0899
+                },
+                "LeftMargin": 182.59,
+                "RightMargin": 180.41,
+                "TopMargin": 303.9324,
+                "BottomMargin": 30.0676,
+                "Tag": 88,
+                "ActionTag": 306141358,
+                "Size": {
+                  "X": 344.0,
+                  "Y": 33.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "user",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 63.0823,
+                  "Y": 278.929
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 246,
+                  "G": 235,
+                  "B": 117
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0892,
+                  "Y": 0.76
+                },
+                "PreSize": {
+                  "X": 0.2447,
+                  "Y": 0.0518
+                },
+                "LeftMargin": 63.0823,
+                "RightMargin": 470.9177,
+                "TopMargin": 78.571,
+                "BottomMargin": 269.429,
+                "Tag": 89,
+                "ActionTag": 682291746,
+                "Size": {
+                  "X": 173.0,
+                  "Y": 19.0
+                },
+                "Name": "txt_user_tanthu",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1734220427,
+            "Size": {
+              "X": 707.0,
+              "Y": 367.0
+            },
+            "VisibleForFrame": false,
+            "Name": "pn_tanthu",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Medium.ttf",
+        "Font/Roboto-Regular.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/btn_closegame.png",
+        "Minigame/ImageChung/btn_closegame_s.png",
+        "Minigame/ImageChung/lopmo.png",
+        "Minigame/ImageChung/Title.png",
+        "Minigame/ResVQMM/BackVQMM.png",
+        "Minigame/ResVQMM/bg_number_luot.png",
+        "Minigame/ResVQMM/bg_vong_vin.png",
+        "Minigame/ResVQMM/bg_vonquay.png",
+        "Minigame/ResVQMM/btn_info.png",
+        "Minigame/ResVQMM/btnQuay.png",
+        "Minigame/ResVQMM/btnQuay_s.png",
+        "Minigame/ResVQMM/Hoi.png",
+        "Minigame/ResVQMM/light.png",
+        "Minigame/ResVQMM/muiten.png",
+        "Minigame/ResVQMM/notice.png",
+        "Minigame/ResVQMM/vong_vin.png",
+        "Minigame/ResVQMM/Vongngoai.png",
+        "Minigame/ResVQMM/Vongtrong.png",
+        "ResourceMenuTab/Mail/button.png",
+        "ResourceMenuTab/Mail/button_s.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

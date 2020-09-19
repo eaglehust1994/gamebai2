@@ -1,0 +1,10 @@
+Searching 3128 files for "Manvip.club"
+
+/Users/thanhle/Documents/data/c/REAL/FE01/src/Game/Minigame/Network/networkUtil.js:
+  150  var CURRENT_MODE = MODE_DEPLOY.TEST;
+  151  
+  152: var BASE_URL = "https://manvip.club/portal/api?";
+  153  // if(CURRENT_MODE == MODE_DEPLOY.TEST){
+  154  //     BASE_URL = "http://210.211.101.230:8081/api?";
+
+1 match in 1 file

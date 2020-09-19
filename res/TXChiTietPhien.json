@@ -1,0 +1,2451 @@
+{
+  "ID": "2c3a8556-dc5e-4fe2-bfe0-51e116089def",
+  "Version": "2.3.4",
+  "Name": "TXChiTietPhien",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 163,
+        "Children": [
+          {
+            "ClipAble": false,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 128,
+              "G": 0,
+              "B": 128
+            },
+            "FirstColor": {
+              "R": 30,
+              "G": 144
+            },
+            "EndColor": {
+              "R": 14,
+              "G": 103,
+              "B": 190
+            },
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 256,
+            "Scale9OriginY": 210,
+            "Scale9Width": 195,
+            "Scale9Height": 77,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.4167,
+              "Y": 356.9055
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5081,
+              "Y": 0.4957
+            },
+            "PreSize": {
+              "X": 0.5508,
+              "Y": 0.6875
+            },
+            "LeftMargin": 297.9167,
+            "RightMargin": 277.0833,
+            "TopMargin": 115.5945,
+            "BottomMargin": 109.4055,
+            "Tag": 180,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 28,
+                "Scale9Height": 35,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 676.0555,
+                  "Y": 466.1238
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9589,
+                  "Y": 0.9417
+                },
+                "PreSize": {
+                  "X": 0.0823,
+                  "Y": 0.1152
+                },
+                "LeftMargin": 647.0555,
+                "RightMargin": -0.0555,
+                "TopMargin": 0.3762,
+                "BottomMargin": 437.6238,
+                "Tag": 181,
+                "ActionTag": -1831543305,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btn_close_chi_tiet_phien",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 296,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.0,
+                  "Y": 423.9997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2695,
+                  "Y": 0.8566
+                },
+                "PreSize": {
+                  "X": 0.4624,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 27.0,
+                "RightMargin": 352.0,
+                "TopMargin": 55.5003,
+                "BottomMargin": 408.4997,
+                "Tag": 182,
+                "ActionTag": 1266952196,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_vin_chi_tiet_phien",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_s.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_s.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_s.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 296,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 516.9999,
+                  "Y": 424.0009
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7333,
+                  "Y": 0.8566
+                },
+                "PreSize": {
+                  "X": 0.4624,
+                  "Y": 0.0626
+                },
+                "LeftMargin": 353.9999,
+                "RightMargin": 25.0001,
+                "TopMargin": 55.4991,
+                "BottomMargin": 408.5009,
+                "Tag": 183,
+                "ActionTag": 1274482452,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_xu_chi_tiet_phien",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "XU",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Black.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 515.0,
+                  "Y": 424.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7305,
+                  "Y": 0.8566
+                },
+                "PreSize": {
+                  "X": 0.0411,
+                  "Y": 0.0465
+                },
+                "LeftMargin": 500.5,
+                "RightMargin": 175.5,
+                "TopMargin": 59.5,
+                "BottomMargin": 412.5,
+                "Tag": 184,
+                "ActionTag": 1787839720,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_28_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "VIN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Black.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 188.0,
+                  "Y": 424.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2667,
+                  "Y": 0.8566
+                },
+                "PreSize": {
+                  "X": 0.0496,
+                  "Y": 0.0465
+                },
+                "LeftMargin": 170.5,
+                "RightMargin": 499.5,
+                "TopMargin": 59.5,
+                "BottomMargin": 412.5,
+                "Tag": 185,
+                "ActionTag": 1832909048,
+                "Size": {
+                  "X": 35.0,
+                  "Y": 23.0
+                },
+                "Name": "Text_28",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.0,
+                  "Y": 41.8686
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0369,
+                  "Y": 0.0846
+                },
+                "PreSize": {
+                  "X": 0.9262,
+                  "Y": 0.5859
+                },
+                "LeftMargin": 26.0,
+                "RightMargin": 26.0,
+                "TopMargin": 163.1314,
+                "BottomMargin": 41.8686,
+                "Tag": 186,
+                "ActionTag": -1677754620,
+                "Size": {
+                  "X": 653.0,
+                  "Y": 290.0
+                },
+                "Name": "lv_chi_tiet_phien",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.0,
+                  "Y": 477.5301
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4993,
+                  "Y": 0.9647
+                },
+                "PreSize": {
+                  "X": 0.678,
+                  "Y": 0.1253
+                },
+                "LeftMargin": 113.0,
+                "RightMargin": 114.0,
+                "TopMargin": -13.5301,
+                "BottomMargin": 446.5301,
+                "Tag": 187,
+                "ActionTag": -1324519544,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "Title_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 28,
+                "LabelText": "CHI TIẾT PHIÊN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 359.2268,
+                  "Y": 476.5643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5095,
+                  "Y": 0.9628
+                },
+                "PreSize": {
+                  "X": 0.2979,
+                  "Y": 0.0707
+                },
+                "LeftMargin": 254.2268,
+                "RightMargin": 240.7732,
+                "TopMargin": 0.9357,
+                "BottomMargin": 459.0643,
+                "Tag": 188,
+                "ActionTag": 965830798,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 35.0
+                },
+                "Name": "Text_37",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/xx11.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 319.9772,
+                  "Y": 385
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "RotationSkewX": -12.0,
+                "RotationSkewY": -12.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4539,
+                  "Y": 0.8234
+                },
+                "PreSize": {
+                  "X": 0.3745,
+                  "Y": 0.5333
+                },
+                "LeftMargin": 187.9772,
+                "RightMargin": 253.0228,
+                "TopMargin": -44.5674,
+                "BottomMargin": 275.5674,
+                "Tag": 189,
+                "ActionTag": 1749962018,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 264.0
+                },
+                "Name": "sp_xx_chi_tiet_phien1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/xx11.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 368.1122,
+                  "Y": 385
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "RotationSkewX": -11.9992,
+                "RotationSkewY": -11.9992,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5221,
+                  "Y": 0.82
+                },
+                "PreSize": {
+                  "X": 0.3745,
+                  "Y": 0.5333
+                },
+                "LeftMargin": 236.1122,
+                "RightMargin": 204.8878,
+                "TopMargin": -42.9241,
+                "BottomMargin": 273.9241,
+                "Tag": 190,
+                "ActionTag": -1205714704,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 264.0
+                },
+                "Name": "sp_xx_chi_tiet_phien2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/xx11.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 413.751,
+                  "Y": 385
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "RotationSkewX": -11.9992,
+                "RotationSkewY": -11.9992,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5869,
+                  "Y": 0.8208
+                },
+                "PreSize": {
+                  "X": 0.3745,
+                  "Y": 0.5333
+                },
+                "LeftMargin": 281.751,
+                "RightMargin": 159.249,
+                "TopMargin": -43.2803,
+                "BottomMargin": 274.2803,
+                "Tag": 191,
+                "ActionTag": 1983640681,
+                "Size": {
+                  "X": 264.0,
+                  "Y": 264.0
+                },
+                "Name": "sp_xx_chi_tiet_phien3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 244.1232,
+                  "Y": 387.0168
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3463,
+                  "Y": 0.7819
+                },
+                "PreSize": {
+                  "X": 0.0496,
+                  "Y": 0.0566
+                },
+                "LeftMargin": 226.6232,
+                "RightMargin": 443.3768,
+                "TopMargin": 93.9832,
+                "BottomMargin": 373.0168,
+                "Tag": 192,
+                "ActionTag": 1970716485,
+                "Size": {
+                  "X": 35.0,
+                  "Y": 28.0
+                },
+                "Name": "lb_tai_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 455.5305,
+                  "Y": 386.2299
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6461,
+                  "Y": 0.7803
+                },
+                "PreSize": {
+                  "X": 0.0496,
+                  "Y": 0.0566
+                },
+                "LeftMargin": 438.0305,
+                "RightMargin": 231.9695,
+                "TopMargin": 94.7701,
+                "BottomMargin": 372.2299,
+                "Tag": 193,
+                "ActionTag": -1620975722,
+                "Size": {
+                  "X": 35.0,
+                  "Y": 28.0
+                },
+                "Name": "lb_xiu_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 2,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 69,
+                  "B": 137
+                },
+                "FirstColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "EndColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.0,
+                  "Y": 9.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0369,
+                  "Y": 0.0182
+                },
+                "PreSize": {
+                  "X": 0.1915,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 26.0,
+                "RightMargin": 544.0,
+                "TopMargin": 456.0,
+                "BottomMargin": 9.0,
+                "Tag": 194,
+                "ActionTag": 671763124,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_5",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "TỔNG HOÀN/ĐẶT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 93.2775,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1323,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.1844,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 28.2775,
+                "RightMargin": 546.7225,
+                "TopMargin": 462.5,
+                "BottomMargin": 13.5,
+                "Tag": 195,
+                "ActionTag": -2098099279,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_32",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/txtXiu.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 515.6716,
+                  "Y": 386.425
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7314,
+                  "Y": 0.7807
+                },
+                "PreSize": {
+                  "X": 0.1191,
+                  "Y": 0.1273
+                },
+                "LeftMargin": 473.6716,
+                "RightMargin": 147.3284,
+                "TopMargin": 77.075,
+                "BottomMargin": 354.925,
+                "Tag": 196,
+                "ActionTag": 2143842734,
+                "Size": {
+                  "X": 84.0,
+                  "Y": 63.0
+                },
+                "Name": "sp_xiu_chi_tiet_phien",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/TaiXiu/images/txtTai.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 187.1239,
+                  "Y": 387.279
+                },
+                "Scale": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2654,
+                  "Y": 0.7824
+                },
+                "PreSize": {
+                  "X": 0.1163,
+                  "Y": 0.1232
+                },
+                "LeftMargin": 146.1239,
+                "RightMargin": 476.8761,
+                "TopMargin": 77.221,
+                "BottomMargin": 356.779,
+                "Tag": 197,
+                "ActionTag": 1267487511,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 61.0
+                },
+                "Name": "sp_tai_chi_tiet_phien",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "EndColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.0,
+                  "Y": 334.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0369,
+                  "Y": 0.6747
+                },
+                "PreSize": {
+                  "X": 0.4596,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 26.0,
+                "RightMargin": 355.0,
+                "TopMargin": 131.0,
+                "BottomMargin": 334.0,
+                "Tag": 198,
+                "ActionTag": -777335334,
+                "Size": {
+                  "X": 324.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_6",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "TG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 44.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0624,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0312,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 33.0,
+                "RightMargin": 650.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 199,
+                "ActionTag": -680749718,
+                "Size": {
+                  "X": 22.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 178,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 86,
+                  "G": 105,
+                  "B": 216
+                },
+                "FirstColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "EndColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "ColorVector": {
+                  "ScaleX": -0.1736,
+                  "ScaleY": 0.9848
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 354.0001,
+                  "Y": 334.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5021,
+                  "Y": 0.6747
+                },
+                "PreSize": {
+                  "X": 0.4596,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 354.0001,
+                "RightMargin": 26.9999,
+                "TopMargin": 130.9999,
+                "BottomMargin": 334.0001,
+                "Tag": 200,
+                "ActionTag": 1819043655,
+                "Size": {
+                  "X": 324.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_6_0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "TÊN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 126.0835,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1788,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0454,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 110.0835,
+                "RightMargin": 562.9165,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 201,
+                "ActionTag": -1491431379,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "HOÀN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 228.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3234,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0652,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 205.0,
+                "RightMargin": 454.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 202,
+                "ActionTag": -321634697,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "ĐẶT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4383,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0482,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 292.0,
+                "RightMargin": 379.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 203,
+                "ActionTag": -1921699592,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "ĐẶT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 396.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5617,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0482,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 379.0,
+                "RightMargin": 292.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 204,
+                "ActionTag": -106911503,
+                "Size": {
+                  "X": 34.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_2_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "HOÀN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 477.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6766,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0652,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 454.0,
+                "RightMargin": 205.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 205,
+                "ActionTag": -1683532704,
+                "Size": {
+                  "X": 46.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_1_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "TÊN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 580.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8227,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0454,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 564.0,
+                "RightMargin": 109.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 206,
+                "ActionTag": -681403980,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_0_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "TG",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 660.0,
+                  "Y": 349.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9362,
+                  "Y": 0.7051
+                },
+                "PreSize": {
+                  "X": 0.0312,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 649.0,
+                "RightMargin": 34.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 339.5,
+                "Tag": 207,
+                "ActionTag": 25655418,
+                "Size": {
+                  "X": 22.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_22_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 2,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 12,
+                  "G": 24,
+                  "B": 52
+                },
+                "EndColor": {
+                  "R": 12,
+                  "G": 24,
+                  "B": 52
+                },
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 161.0,
+                  "Y": 9.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2284,
+                  "Y": 0.0182
+                },
+                "PreSize": {
+                  "X": 0.2681,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 161.0,
+                "RightMargin": 355.0,
+                "TopMargin": 456.0,
+                "BottomMargin": 9.0,
+                "Tag": 208,
+                "ActionTag": 142062723,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_8",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/vachdung.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 255.5709,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3625,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.0014,
+                  "Y": 0.0828
+                },
+                "LeftMargin": 255.0709,
+                "RightMargin": 448.9291,
+                "TopMargin": 451.5,
+                "BottomMargin": 2.5,
+                "Tag": 209,
+                "ActionTag": 951355399,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 41.0
+                },
+                "Name": "vachdung_17",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 2,
+                "SingleColor": {
+                  "R": 0,
+                  "G": 69,
+                  "B": 137
+                },
+                "FirstColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "EndColor": {
+                  "R": 27,
+                  "G": 69,
+                  "B": 156
+                },
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 544.0538,
+                  "Y": 9.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7717,
+                  "Y": 0.0182
+                },
+                "PreSize": {
+                  "X": 0.1915,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 544.0538,
+                "RightMargin": 25.9462,
+                "TopMargin": 456.0,
+                "BottomMargin": 9.0,
+                "Tag": 210,
+                "ActionTag": 1786239739,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_5_0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 16,
+                "LabelText": "TỔNG HOÀN/ĐẶT",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 611.1514,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 223,
+                  "B": 88
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8669,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.1844,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 546.1514,
+                "RightMargin": 28.8486,
+                "TopMargin": 462.5,
+                "BottomMargin": 13.5,
+                "Tag": 211,
+                "ActionTag": 1222927555,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 19.0
+                },
+                "Name": "Text_32_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 2,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 12,
+                  "G": 24,
+                  "B": 52
+                },
+                "EndColor": {
+                  "R": 12,
+                  "G": 24,
+                  "B": 52
+                },
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 354.7883,
+                  "Y": 9.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5032,
+                  "Y": 0.0182
+                },
+                "PreSize": {
+                  "X": 0.2681,
+                  "Y": 0.0606
+                },
+                "LeftMargin": 354.7883,
+                "RightMargin": 161.2117,
+                "TopMargin": 456.0,
+                "BottomMargin": 9.0,
+                "Tag": 212,
+                "ActionTag": -713352010,
+                "Size": {
+                  "X": 189.0,
+                  "Y": 30.0
+                },
+                "Name": "Panel_8_0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 12,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 208.1908,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2953,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.0323
+                },
+                "LeftMargin": 161.1908,
+                "RightMargin": 449.8092,
+                "TopMargin": 464.0,
+                "BottomMargin": 15.0,
+                "Tag": 213,
+                "ActionTag": 1124117603,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 16.0
+                },
+                "Name": "lb_tong_hoan_tra_tai_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 12,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 302.641,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4293,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.0323
+                },
+                "LeftMargin": 255.641,
+                "RightMargin": 355.359,
+                "TopMargin": 464.0,
+                "BottomMargin": 15.0,
+                "Tag": 214,
+                "ActionTag": 1841933362,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 16.0
+                },
+                "Name": "lb_tong_dat_tai_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 12,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 401.3556,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5693,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.0323
+                },
+                "LeftMargin": 354.3556,
+                "RightMargin": 256.6444,
+                "TopMargin": 464.0,
+                "BottomMargin": 15.0,
+                "Tag": 215,
+                "ActionTag": 2038705655,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 16.0
+                },
+                "Name": "lb_tong_dat_xiu_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 12,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 496.9867,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7049,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.0323
+                },
+                "LeftMargin": 449.9867,
+                "RightMargin": 161.0133,
+                "TopMargin": 464.0,
+                "BottomMargin": 15.0,
+                "Tag": 216,
+                "ActionTag": 997905232,
+                "Size": {
+                  "X": 94.0,
+                  "Y": 16.0
+                },
+                "Name": "lb_tong_hoan_tra_xiu_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/vachdung.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 449.0008,
+                  "Y": 23.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6369,
+                  "Y": 0.0465
+                },
+                "PreSize": {
+                  "X": 0.0014,
+                  "Y": 0.0828
+                },
+                "LeftMargin": 448.5008,
+                "RightMargin": 255.4992,
+                "TopMargin": 451.5,
+                "BottomMargin": 2.5,
+                "Tag": 217,
+                "ActionTag": 1741297968,
+                "Size": {
+                  "X": 1.0,
+                  "Y": 41.0
+                },
+                "Name": "vachdung_17_0",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 16,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0001,
+                  "Y": 475.4813
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1433,
+                  "Y": 0.9606
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 31.0001,
+                "RightMargin": 533.9999,
+                "TopMargin": 10.0187,
+                "BottomMargin": 465.9813,
+                "Tag": 218,
+                "ActionTag": 1097187924,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 19.0
+                },
+                "Name": "lb_phien_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 14,
+                "LabelText": "",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Medium.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.0001,
+                  "Y": 454.8957
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1433,
+                  "Y": 0.919
+                },
+                "PreSize": {
+                  "X": 0.1986,
+                  "Y": 0.0384
+                },
+                "LeftMargin": 31.0001,
+                "RightMargin": 533.9999,
+                "TopMargin": 30.6043,
+                "BottomMargin": 445.3957,
+                "Tag": 219,
+                "ActionTag": 1589344046,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 19.0
+                },
+                "Name": "lb_ngay_chi_tiet_phien",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/arrow.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/arrow.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/arrow.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 19,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 183.3537,
+                  "Y": 465.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2601,
+                  "Y": 0.9394
+                },
+                "PreSize": {
+                  "X": 0.0426,
+                  "Y": 0.0828
+                },
+                "LeftMargin": 168.3537,
+                "RightMargin": 506.6463,
+                "TopMargin": 9.5,
+                "BottomMargin": 444.5,
+                "Tag": 220,
+                "ActionTag": -646718589,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 41.0
+                },
+                "Name": "btn_neck_phien_chi_tiet_phien",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/arrow.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/arrow.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/arrow.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 19,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 20.4196,
+                  "Y": 465.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.029,
+                  "Y": 0.9394
+                },
+                "PreSize": {
+                  "X": 0.0426,
+                  "Y": 0.0828
+                },
+                "LeftMargin": 5.4196,
+                "RightMargin": 669.5804,
+                "TopMargin": 9.5,
+                "BottomMargin": 444.5,
+                "Tag": 221,
+                "ActionTag": -1696272752,
+                "Size": {
+                  "X": 30.0,
+                  "Y": 41.0
+                },
+                "Name": "btn_back_phien_chi_tiet_phien",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -270377666,
+            "Size": {
+              "X": 705.0,
+              "Y": 495.0
+            },
+            "Name": "pChiTietPhien",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Black.ttf",
+        "Font/Roboto-Medium.ttf",
+        "Font/Roboto-Regular.ttf",
+        "Minigame/ImageChung/arrow.png",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_button_tab.png",
+        "Minigame/ImageChung/btn_button_tab_s.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/Title.png",
+        "Minigame/ImageChung/vachdung.png",
+        "Minigame/TaiXiu/images/txtTai.png",
+        "Minigame/TaiXiu/images/txtXiu.png",
+        "Minigame/TaiXiu/images/xx11.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,2839 @@
+{
+  "ID": "370664e0-9aa2-40df-be57-82929b8bd486",
+  "Version": "2.3.4",
+  "Name": "MiniPoker_Huongdan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 305,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Minigame/ImageChung/Bg_AllBang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 643.7,
+              "Y": 329.2067
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5029,
+              "Y": 0.4572
+            },
+            "PreSize": {
+              "X": 0.5523,
+              "Y": 0.6903
+            },
+            "LeftMargin": 290.2,
+            "RightMargin": 282.8,
+            "TopMargin": 142.2933,
+            "BottomMargin": 80.7067,
+            "Tag": 1113,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/Title.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.4414,
+                  "Y": 476.5
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4985,
+                  "Y": 0.9588
+                },
+                "PreSize": {
+                  "X": 0.6761,
+                  "Y": 0.1247
+                },
+                "LeftMargin": 113.4414,
+                "RightMargin": 115.5586,
+                "TopMargin": -10.5,
+                "BottomMargin": 445.5,
+                "Tag": 308,
+                "ActionTag": 939604562,
+                "Size": {
+                  "X": 478.0,
+                  "Y": 62.0
+                },
+                "Name": "title",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "ClipAble": false,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 25,
+                  "G": 38,
+                  "B": 96
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 352.4402,
+                  "Y": 397.2875
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4985,
+                  "Y": 0.7994
+                },
+                "PreSize": {
+                  "X": 0.9279,
+                  "Y": 0.7445
+                },
+                "LeftMargin": 24.4402,
+                "RightMargin": 26.5598,
+                "TopMargin": 99.7125,
+                "BottomMargin": 27.2875,
+                "Tag": 309,
+                "ActionTag": -1476159648,
+                "Size": {
+                  "X": 656.0,
+                  "Y": 370.0
+                },
+                "Name": "pn_nen",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 28,
+                "LabelText": "HƯỚNG DẪN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 349.4436,
+                  "Y": 471.66
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 100,
+                  "G": 42,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4943,
+                  "Y": 0.949
+                },
+                "PreSize": {
+                  "X": 0.2772,
+                  "Y": 0.0805
+                },
+                "LeftMargin": 251.4436,
+                "RightMargin": 259.5564,
+                "TopMargin": 5.34,
+                "BottomMargin": 451.66,
+                "Tag": 310,
+                "ActionTag": -1453820735,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 40.0
+                },
+                "Name": "titleGuild",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_s.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 515.4429,
+                  "Y": 419.5726
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7291,
+                  "Y": 0.8442
+                },
+                "PreSize": {
+                  "X": 0.4611,
+                  "Y": 0.0624
+                },
+                "LeftMargin": 352.4429,
+                "RightMargin": 28.5571,
+                "TopMargin": 61.9274,
+                "BottomMargin": 404.0726,
+                "Tag": 311,
+                "ActionTag": 1118974273,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 31.0
+                },
+                "Name": "sp_xu_guild",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.4406,
+                  "Y": 419.5691
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4985,
+                  "Y": 0.8442
+                },
+                "PreSize": {
+                  "X": 0.4611,
+                  "Y": 0.0624
+                },
+                "LeftMargin": 26.4406,
+                "RightMargin": 354.5594,
+                "TopMargin": 61.9309,
+                "BottomMargin": 404.0691,
+                "Tag": 312,
+                "ActionTag": -1295363666,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 31.0
+                },
+                "Name": "sp_vin_guild",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_close_allbang.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 10,
+                "Scale9OriginY": 10,
+                "Scale9Width": 38,
+                "Scale9Height": 37,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 676.0848,
+                  "Y": 465.9109
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9563,
+                  "Y": 0.9374
+                },
+                "PreSize": {
+                  "X": 0.082,
+                  "Y": 0.1147
+                },
+                "LeftMargin": 647.0848,
+                "RightMargin": 1.9152,
+                "TopMargin": 2.5891,
+                "BottomMargin": 437.4109,
+                "Tag": 313,
+                "ActionTag": 384637086,
+                "Size": {
+                  "X": 58.0,
+                  "Y": 57.0
+                },
+                "Name": "btnCloseGuild",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 28,
+                "ButtonText": "VIN",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_g.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_g.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 296,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 352.4406,
+                  "Y": 419.5691
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4985,
+                  "Y": 0.8442
+                },
+                "PreSize": {
+                  "X": 0.4611,
+                  "Y": 0.0624
+                },
+                "LeftMargin": 26.4406,
+                "RightMargin": 354.5594,
+                "TopMargin": 61.9309,
+                "BottomMargin": 404.0691,
+                "Tag": 314,
+                "ActionTag": 2125440951,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_vin_guild",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "FontSize": 28,
+                "ButtonText": "XU",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "Font/Roboto-Regular.ttf",
+                  "Plist": ""
+                },
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_g.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/btn_button_tab_g.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 296,
+                "Scale9Height": 9,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 515.4363,
+                  "Y": 419.5691
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.729,
+                  "Y": 0.8442
+                },
+                "PreSize": {
+                  "X": 0.4611,
+                  "Y": 0.0624
+                },
+                "LeftMargin": 352.4363,
+                "RightMargin": 28.5637,
+                "TopMargin": 61.9309,
+                "BottomMargin": 404.0691,
+                "Tag": 315,
+                "ActionTag": -1532531207,
+                "Size": {
+                  "X": 326.0,
+                  "Y": 31.0
+                },
+                "Name": "btn_xu_guild",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Minigame/ImageChung/lopmo.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 330,
+                "Scale9OriginY": 148,
+                "Scale9Width": 342,
+                "Scale9Height": 153,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 22.5533,
+                  "Y": 397.7374
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0319,
+                  "Y": 0.8003
+                },
+                "PreSize": {
+                  "X": 0.9307,
+                  "Y": 0.7505
+                },
+                "LeftMargin": 22.5533,
+                "RightMargin": 26.4467,
+                "TopMargin": 99.2626,
+                "BottomMargin": 24.7374,
+                "Tag": 4589,
+                "ActionTag": 82472313,
+                "Size": {
+                  "X": 658.0,
+                  "Y": 373.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "InnerNodeSize": {
+                  "Width": 652,
+                  "Height": 843
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 352.4403,
+                  "Y": 394.47
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4985,
+                  "Y": 0.7937
+                },
+                "PreSize": {
+                  "X": 0.9222,
+                  "Y": 0.7324
+                },
+                "LeftMargin": 26.4403,
+                "RightMargin": 28.5597,
+                "TopMargin": 102.53,
+                "BottomMargin": 30.47,
+                "Tag": 316,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 0,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 13.0005,
+                      "Y": 7.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0199,
+                      "Y": 0.0083
+                    },
+                    "PreSize": {
+                      "X": 0.7669,
+                      "Y": 0.9917
+                    },
+                    "LeftMargin": 13.0005,
+                    "RightMargin": 138.9995,
+                    "BottomMargin": 7.0,
+                    "Tag": 317,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 16,
+                        "LabelText": "Bước 1: Chọn Mệnh giá\n\nBước 2: Chọn VIN hoặc XU để chơi\n\nBước 3: Click cần gạt và đợi hiện kết quả\n_ Có 3 mệnh giá chọn đối với VIN và XU, mỗi mệnh giá chọn sẽ có 1 quỹ thưởng khác \nnhau. Mỗi thời điểm chỉ chơi được duy nhất VIN hoặc XU (không thể chơi song song)\n_Trả thưởng cho người chơi:\n     + Người chơi so sánh kết quả nhận được với bảng thưởng để nhận.\n     + Có thể chọn nút ( i ) để xem Lịch Sử Giao Dịch\n\n     + Có thể chọn nút ( cúp ) để xem Bảng Xếp Hạng\n_Người chơi có thể chọn chức năng chơi tự động để các phiên chơi diễn ra nhanh và \nliên tục. Có thể mở nhiều trình duyệt chơi cùng lúc để tăng cơ hội chúng thưởng\n_ Có thể click vào icon mini của Mini Poker để mở / Đóng popup game",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Regular.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 1.0
+                        },
+                        "Position": {
+                          "X": -0.8552,
+                          "Y": 386.43
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0017,
+                          "Y": 0.4622
+                        },
+                        "PreSize": {
+                          "X": 1.274,
+                          "Y": 0.3816
+                        },
+                        "LeftMargin": -0.8552,
+                        "RightMargin": -136.1448,
+                        "TopMargin": 449.57,
+                        "BottomMargin": 67.43,
+                        "Tag": 318,
+                        "ActionTag": -1362305881,
+                        "ZOrder": 1,
+                        "Size": {
+                          "X": 637.0,
+                          "Y": 319.0
+                        },
+                        "Name": "nd",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 16,
+                        "LabelText": "Cách tính: Mỗi lần đặt cửa, nhà cái thu 2% phế,1% Tiền thua cược sẽ đưa vào hũ thưởng",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Regular.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -6.6909,
+                          "Y": 23.6168
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.0134,
+                          "Y": 0.0282
+                        },
+                        "PreSize": {
+                          "X": 1.274,
+                          "Y": 0.0227
+                        },
+                        "LeftMargin": -6.6909,
+                        "RightMargin": -130.3091,
+                        "TopMargin": 802.8832,
+                        "BottomMargin": 14.1168,
+                        "Tag": 319,
+                        "ActionTag": 300773449,
+                        "Size": {
+                          "X": 637.0,
+                          "Y": 19.0
+                        },
+                        "Name": "nd2",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "Minigame/ResMiniPoker/GuildMiniPoker.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 313.4296,
+                          "Y": 614.5771
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6269,
+                          "Y": 0.7351
+                        },
+                        "PreSize": {
+                          "X": 1.304,
+                          "Y": 0.5251
+                        },
+                        "LeftMargin": -12.5704,
+                        "RightMargin": -139.4296,
+                        "TopMargin": 1.9229,
+                        "BottomMargin": 395.0771,
+                        "Tag": 320,
+                        "ActionTag": 1872156327,
+                        "Size": {
+                          "X": 652.0,
+                          "Y": 439.0
+                        },
+                        "Name": "Spritend",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0002,
+                          "Y": 306.9946
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.3672
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 0.0002,
+                        "RightMargin": 499.9998,
+                        "TopMargin": 529.0054,
+                        "BottomMargin": 306.9946,
+                        "Tag": 321,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 16,
+                            "LabelText": "VD: khi game chọn 100 VIN Click cần gạt ra kết quả Đôi A và 3 lá rác. Người chơi thắng \nmức Đôi J trở lên và nhận 250 VIN",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -0.0002,
+                              "Y": -236.9133
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -0.0002,
+                            "RightMargin": -636.9998,
+                            "TopMargin": 211.9133,
+                            "BottomMargin": -261.9133,
+                            "Tag": 322,
+                            "ActionTag": 36589804,
+                            "Size": {
+                              "X": 637.0,
+                              "Y": 50.0
+                            },
+                            "Name": "nd3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Thùng phá sảnh J",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 475.7498
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -121.0,
+                            "TopMargin": -485.2498,
+                            "BottomMargin": 466.2498,
+                            "Tag": 323,
+                            "ActionTag": -208144094,
+                            "Size": {
+                              "X": 131.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Nổ hũ               Nổ hũ                Nổ hũ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Right",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 607.9979,
+                              "Y": 475.7498
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "G": 223,
+                              "B": 88
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 355.9979,
+                            "RightMargin": -607.9979,
+                            "TopMargin": -485.2498,
+                            "BottomMargin": 466.2498,
+                            "Tag": 1104,
+                            "ActionTag": -479298927,
+                            "Size": {
+                              "X": 252.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb1_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Thùng phá sảnh",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 430.8387
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -108.0,
+                            "TopMargin": -440.3387,
+                            "BottomMargin": 421.3387,
+                            "Tag": 324,
+                            "ActionTag": -433570100,
+                            "Size": {
+                              "X": 118.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "100.000           1.000.000       10.000.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Right",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 630.0,
+                              "Y": 430.84
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 346.0,
+                            "RightMargin": -630.0,
+                            "TopMargin": -440.34,
+                            "BottomMargin": 421.34,
+                            "Tag": 1105,
+                            "ActionTag": -1803251228,
+                            "Size": {
+                              "X": 284.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb2_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 16,
+                            "LabelText": "Tứ quý",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 386.5575
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -42.0,
+                            "TopMargin": -396.0575,
+                            "BottomMargin": 377.0575,
+                            "Tag": 325,
+                            "ActionTag": 145841297,
+                            "Size": {
+                              "X": 52.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "15.000              150.000         1.500.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Right",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 624.0,
+                              "Y": 386.56
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 351.0,
+                            "RightMargin": -624.0,
+                            "TopMargin": -396.06,
+                            "BottomMargin": 377.06,
+                            "Tag": 1106,
+                            "ActionTag": 432652804,
+                            "Size": {
+                              "X": 273.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb3_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Cù lũ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 339.9554
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -28.0,
+                            "TopMargin": -349.4554,
+                            "BottomMargin": 330.4554,
+                            "Tag": 326,
+                            "ActionTag": -1111634384,
+                            "Size": {
+                              "X": 38.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb4",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "5.000                50.000            500.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 620.0,
+                              "Y": 339.96
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 358.0,
+                            "RightMargin": -620.0,
+                            "TopMargin": -349.46,
+                            "BottomMargin": 330.46,
+                            "Tag": 1107,
+                            "ActionTag": 1847222647,
+                            "Size": {
+                              "X": 262.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb4_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Thùng",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 295.5947
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -38.0,
+                            "TopMargin": -305.0947,
+                            "BottomMargin": 286.0947,
+                            "Tag": 327,
+                            "ActionTag": 685753911,
+                            "Size": {
+                              "X": 48.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb5",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "2.000                20.000            200.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 618.0,
+                              "Y": 295.59
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 356.0,
+                            "RightMargin": -618.0,
+                            "TopMargin": -305.09,
+                            "BottomMargin": 286.09,
+                            "Tag": 1108,
+                            "ActionTag": -1338329536,
+                            "Size": {
+                              "X": 262.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb5_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Sảnh",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 249.8295
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -29.0,
+                            "TopMargin": -259.3295,
+                            "BottomMargin": 240.3295,
+                            "Tag": 328,
+                            "ActionTag": 670890755,
+                            "Size": {
+                              "X": 39.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb6",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "1.300                13.000            130.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 617.0,
+                              "Y": 249.83
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 355.0,
+                            "RightMargin": -617.0,
+                            "TopMargin": -259.33,
+                            "BottomMargin": 240.33,
+                            "Tag": 1109,
+                            "ActionTag": 662186150,
+                            "Size": {
+                              "X": 262.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb6_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Sám",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 206.0254
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -25.0,
+                            "TopMargin": -215.5254,
+                            "BottomMargin": 196.5254,
+                            "Tag": 329,
+                            "ActionTag": -1999526951,
+                            "Size": {
+                              "X": 35.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb7",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "800                  8.000               80.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 618.0,
+                              "Y": 206.03
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 367.0,
+                            "RightMargin": -618.0,
+                            "TopMargin": -215.53,
+                            "BottomMargin": 196.53,
+                            "Tag": 1110,
+                            "ActionTag": 320504374,
+                            "Size": {
+                              "X": 251.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb7_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Hai đôi",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 160.7348
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -42.0,
+                            "TopMargin": -170.2348,
+                            "BottomMargin": 151.2348,
+                            "Tag": 330,
+                            "ActionTag": -105478431,
+                            "Size": {
+                              "X": 52.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb8",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "500                  5.000               50.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 619.0,
+                              "Y": 160.73
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 368.0,
+                            "RightMargin": -619.0,
+                            "TopMargin": -170.23,
+                            "BottomMargin": 151.23,
+                            "Tag": 1111,
+                            "ActionTag": -730559170,
+                            "Size": {
+                              "X": 251.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb8_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Đôi lớn hơn J",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 115.0556
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -86.0,
+                            "TopMargin": -124.5556,
+                            "BottomMargin": 105.5556,
+                            "Tag": 331,
+                            "ActionTag": -366353930,
+                            "Size": {
+                              "X": 96.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb9",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "250                  2.500               25.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 619.0,
+                              "Y": 115.06
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 237,
+                              "G": 51,
+                              "B": 237
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 368.0,
+                            "RightMargin": -619.0,
+                            "TopMargin": -124.56,
+                            "BottomMargin": 105.56,
+                            "Tag": 1112,
+                            "ActionTag": 459478759,
+                            "Size": {
+                              "X": 251.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb9_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "100                  1.000              10.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 365.9684,
+                              "Y": 512.9332
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 365.9684,
+                            "RightMargin": -612.9684,
+                            "TopMargin": -522.4332,
+                            "BottomMargin": 503.4332,
+                            "Tag": 332,
+                            "ActionTag": -1506154970,
+                            "Size": {
+                              "X": 247.0,
+                              "Y": 19.0
+                            },
+                            "Name": "title",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -649152820,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "pn_vin_guild",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "ComboBoxIndex": 1,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0002,
+                          "Y": 306.9946
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.3672
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 0.0002,
+                        "RightMargin": 499.9998,
+                        "TopMargin": 529.0054,
+                        "BottomMargin": 306.9946,
+                        "Tag": 333,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 16,
+                            "LabelText": "VD: khi game chọn 1.000 XU Click cần gạt ra kết quả Đôi A và 3 lá rác. Người chơi thắng\nmức Đôi J trở lên và nhận 2.500 XU",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -0.0002,
+                              "Y": -236.9133
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -0.0002,
+                            "RightMargin": -636.9998,
+                            "TopMargin": 211.9133,
+                            "BottomMargin": -261.9133,
+                            "Tag": 334,
+                            "ActionTag": 1408484085,
+                            "Size": {
+                              "X": 637.0,
+                              "Y": 50.0
+                            },
+                            "Name": "nd3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Thùng phá sảnh J                                                           Nổ hũ                Nổ hũ                Nổ hũ",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 475.7498
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -611.0,
+                            "TopMargin": -485.2498,
+                            "BottomMargin": 466.2498,
+                            "Tag": 335,
+                            "ActionTag": 17806850,
+                            "Size": {
+                              "X": 621.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Thùng phá sảnh                                                           1.000.000       10.000.000     100.000.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 430.8387
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -633.0,
+                            "TopMargin": -440.3387,
+                            "BottomMargin": 421.3387,
+                            "Tag": 336,
+                            "ActionTag": -915996032,
+                            "Size": {
+                              "X": 643.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb2",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "IsCustomSize":true,
+                            "FontSize": 16,
+                            "LabelText": "Tứ quý                                                                             120.000           1.200.000      12.000.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 386.5575
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -627.0,
+                            "TopMargin": -396.0575,
+                            "BottomMargin": 377.0575,
+                            "Tag": 337,
+                            "ActionTag": 1618841746,
+                            "Size": {
+                              "X": 637.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb3",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Cù lũ                                                                                  40.000             400.000         4.000.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 339.9554
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -623.0,
+                            "TopMargin": -349.4554,
+                            "BottomMargin": 330.4554,
+                            "Tag": 338,
+                            "ActionTag": 783026687,
+                            "Size": {
+                              "X": 633.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb4",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Thùng                                                                                18.000             180.000         1.800.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 295.5947
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -625.0,
+                            "TopMargin": -305.0947,
+                            "BottomMargin": 286.0947,
+                            "Tag": 339,
+                            "ActionTag": -314498541,
+                            "Size": {
+                              "X": 635.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb5",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Sảnh                                                                                  12.000             120.000         1.200.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 249.8295
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -624.0,
+                            "TopMargin": -259.3295,
+                            "BottomMargin": 240.3295,
+                            "Tag": 340,
+                            "ActionTag": 1358071818,
+                            "Size": {
+                              "X": 634.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb6",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Sám                                                                                    8.000               80.000            800.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 206.0254
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -617.0,
+                            "TopMargin": -215.5254,
+                            "BottomMargin": 196.5254,
+                            "Tag": 341,
+                            "ActionTag": 1688430548,
+                            "Size": {
+                              "X": 627.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb7",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Hai đôi                                                                                5.000               50.000            500.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 160.7348
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -618.0,
+                            "TopMargin": -170.2348,
+                            "BottomMargin": 151.2348,
+                            "Tag": 342,
+                            "ActionTag": -1855879474,
+                            "Size": {
+                              "X": 628.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb8",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "Đôi lớn hơn J                                                                     2.500               25.000            250.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": -10.0,
+                              "Y": 115.0556
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 192,
+                              "G": 193,
+                              "B": 195
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": -10.0,
+                            "RightMargin": -618.0,
+                            "TopMargin": -124.5556,
+                            "BottomMargin": 105.5556,
+                            "Tag": 343,
+                            "ActionTag": 628338574,
+                            "Size": {
+                              "X": 628.0,
+                              "Y": 19.0
+                            },
+                            "Name": "lb9",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 16,
+                            "LabelText": "1.000              10.000             100.000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "Font/Roboto-Regular.ttf",
+                              "Plist": ""
+                            },
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 360.9684,
+                              "Y": 512.9335
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 232,
+                              "G": 218,
+                              "B": 173
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 360.9684,
+                            "RightMargin": -618.9684,
+                            "TopMargin": -522.4335,
+                            "BottomMargin": 503.4335,
+                            "Tag": 344,
+                            "ActionTag": 1473367246,
+                            "Size": {
+                              "X": 258.0,
+                              "Y": 19.0
+                            },
+                            "Name": "title",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 230977408,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "pn_xu_guild",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 16,
+                        "LabelText": "Nhóm bài                           Kết quả",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "Font/Roboto-Regular.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 22.8945,
+                          "Y": 820.6
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 232,
+                          "G": 218,
+                          "B": 173
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0458,
+                          "Y": 0.9816
+                        },
+                        "PreSize": {
+                          "X": 0.47,
+                          "Y": 0.0227
+                        },
+                        "LeftMargin": 22.8945,
+                        "RightMargin": 242.1055,
+                        "TopMargin": 5.9,
+                        "BottomMargin": 811.1,
+                        "Tag": 408,
+                        "ActionTag": -1712897949,
+                        "Size": {
+                          "X": 235.0,
+                          "Y": 19.0
+                        },
+                        "Name": "nd2_0",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1034972653,
+                    "Size": {
+                      "X": 500.0,
+                      "Y": 836.0
+                    },
+                    "Name": "PanelND",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 664999848,
+                "Size": {
+                  "X": 652.0,
+                  "Y": 364.0
+                },
+                "Name": "sv_guild",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": 1516160536,
+            "Size": {
+              "X": 707.0,
+              "Y": 497.0
+            },
+            "Name": "Pn_HuongDan",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "Font/Roboto-Regular.ttf",
+        "Minigame/ImageChung/Bg_AllBang.png",
+        "Minigame/ImageChung/btn_button_tab.png",
+        "Minigame/ImageChung/btn_button_tab_g.png",
+        "Minigame/ImageChung/btn_button_tab_s.png",
+        "Minigame/ImageChung/btn_close_allbang.png",
+        "Minigame/ImageChung/lopmo.png",
+        "Minigame/ImageChung/Title.png",
+        "Minigame/ResMiniPoker/GuildMiniPoker.png",
+        "Minigame/ResMiniPoker/PlistMiniPoker.plist",
+        "Minigame/ResMiniPoker/PlistMiniPoker.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
